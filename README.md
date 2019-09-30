@@ -30,11 +30,11 @@ Tile-Based架构下的性能调校](http://www.cnblogs.com/gameknife/p/3515714.h
 
 以下为各个图形API的图形流水线
 
-![屏幕快照 2018-11-11 上午2.57.45.png](https://upload-images.jianshu.io/upload_images/8136508-b853ca505b3d4725.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![1.png](https://upload-images.jianshu.io/upload_images/8136508-b853ca505b3d4725.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![屏幕快照 2018-11-11 上午3.04.07.png](https://upload-images.jianshu.io/upload_images/8136508-43be129a68aa7dcf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![2.png](https://upload-images.jianshu.io/upload_images/8136508-43be129a68aa7dcf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![屏幕快照 2018-11-11 下午2.57.12.png](https://upload-images.jianshu.io/upload_images/8136508-01db94a45a2b95cf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![3.png](https://upload-images.jianshu.io/upload_images/8136508-01db94a45a2b95cf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 我们可以看到，OpenGL与OpenGL ES基本是一样的。此外，如果想了解OpenGL图形渲染流水线更为细节的情况，可参考此文：https://www.khronos.org/opengl/wiki/Rendering_Pipeline_Overview
 
