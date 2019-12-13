@@ -12,6 +12,7 @@ Tile-Based架构下的性能调校](http://www.cnblogs.com/gameknife/p/3515714.h
 1. [移动平台游戏的性能优化](http://www.csdn.net/article/2015-05-27/2824785)
 1. [侯思松博客](http://blog.csdn.net/housisong)
 1. [数字图像处理 傅里叶变换](http://blog.csdn.net/zkp0601/article/details/41295283)
+1. [mg博客](https://www.cnblogs.com/minggoddess/)
 1. [Render graphs and Vulkan — a deep dive](http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
 1. [OpenGL ES3使用MSAA（多重采样抗锯齿）的方法](https://www.cnblogs.com/zenny-chen/p/5058575.html)
 1. 这篇文章是关于颜色混合半透明效果讲解得比较透彻的：[GLSL Programming/GLUT/Transparency](https://en.wikibooks.org/wiki/GLSL_Programming/GLUT/Transparency)
