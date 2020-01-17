@@ -27,7 +27,14 @@ Tile-Based架构下的性能调校](http://www.cnblogs.com/gameknife/p/3515714.h
 1. [计算机视觉的计算几何及Python实现](https://www.toutiao.com/a6637430623361303053)
 1. [Bit blit](https://en.wikipedia.org/wiki/Bit_blit)
 1. [A simple Vulkan Compute example](http://www.duskborn.com/posts/a-simple-vulkan-compute-example/)
+1. [GLSL \#include](https://www.gamedev.net/forums/topic/316061-glsl-include/)
+1. [What are the key differences between Open Shader Language and GLSL](https://stackoverflow.com/questions/46093694/what-are-the-key-differences-between-open-shader-language-and-glsl)
+1. [Arm Frame Buffer Compression (AFBC)](https://developer.arm.com/architectures/media-architectures/afbc)
+1. [一步一步实现基于GPU的pathtracer（一）：基础](https://www.cnblogs.com/time-flow1024/p/6943508.html)
+1. [一步一步实现基于GPU的pathtracer（二）：求交算法](https://www.cnblogs.com/time-flow1024/p/6944203.html)
+1. [一步一步实现基于GPU的pathtracer（三）：path tracing 简述](https://www.cnblogs.com/time-flow1024/p/9974702.html)
 
+<br />
 
 以下为各个图形API的图形流水线
 
@@ -39,8 +46,11 @@ Tile-Based架构下的性能调校](http://www.cnblogs.com/gameknife/p/3515714.h
 
 我们可以看到，OpenGL与OpenGL ES基本是一样的。此外，如果想了解OpenGL图形渲染流水线更为细节的情况，可参考此文：https://www.khronos.org/opengl/wiki/Rendering_Pipeline_Overview
 
+<br />
+
 ## Pixel与Texel
 
 ***pixel***这个单词来源于**pix**与**element**的缩写，表示**图像元素**，因此简称**像素**。
 同样，***texel***则是**texture**与**element**的缩写，表示**纹理元素**。
+
 
