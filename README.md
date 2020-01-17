@@ -4,17 +4,16 @@
 <br />
 
 1. [彩阳的CSDN博客](http://blog.csdn.net/jiangcaiyang123/article/category/1246122)
+1. [侯思松博客](http://blog.csdn.net/housisong)
+1. [mg博客](https://www.cnblogs.com/minggoddess/)
 1. [OpenGL缓冲区对象之UBO](https://blog.csdn.net/csxiaoshui/article/details/32101977)
 1. [使用计算着色器（Compute Shader）模拟粒子效果【OpenGL】](https://blog.csdn.net/panda1234lee/article/details/70521910)
-1. [Performance Tunning for Tile-Based Architecture
-Tile-Based架构下的性能调校](http://www.cnblogs.com/gameknife/p/3515714.html)
+1. [Performance Tunning for Tile-Based Architecture Tile-Based架构下的性能调校](http://www.cnblogs.com/gameknife/p/3515714.html)
 1. [FBO中多重采样抗锯齿（MSAA：MultiSampling Anti-Aliasing）](http://blog.csdn.net/pizi0475/article/details/7932915)
 1. [PVR/PVRTC解压源码](https://github.com/Volcore/quickpvr)
 1. [png转换成pvz源代码](https://github.com/cjhanson/PNGPOTimizer/tree/CCZ)
 1. [移动平台游戏的性能优化](http://www.csdn.net/article/2015-05-27/2824785)
-1. [侯思松博客](http://blog.csdn.net/housisong)
 1. [数字图像处理 傅里叶变换](http://blog.csdn.net/zkp0601/article/details/41295283)
-1. [mg博客](https://www.cnblogs.com/minggoddess/)
 1. [Render graphs and Vulkan — a deep dive](http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
 1. [OpenGL ES3使用MSAA（多重采样抗锯齿）的方法](https://www.cnblogs.com/zenny-chen/p/5058575.html)
 1. 这篇文章是关于颜色混合半透明效果讲解得比较透彻的：[GLSL Programming/GLUT/Transparency](https://en.wikibooks.org/wiki/GLSL_Programming/GLUT/Transparency)
