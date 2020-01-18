@@ -11,6 +11,7 @@
 1. [Image Load Store](https://www.khronos.org/opengl/wiki/Image_Load_Store)
 1. [Opengl入门系列- FBO的渲染到纹理的用法](https://blog.csdn.net/zangle260/article/details/40430929)
 1. [学习OpenGL ES之渲染到纹理](https://www.jianshu.com/p/eccb53001670)
+1. [学习OpenGL ES之法线贴图](https://www.jianshu.com/p/7021ac73ffd9)
 1. [Performance Tunning for Tile-Based Architecture Tile-Based架构下的性能调校](http://www.cnblogs.com/gameknife/p/3515714.html)
 1. [FBO中多重采样抗锯齿（MSAA：MultiSampling Anti-Aliasing）](http://blog.csdn.net/pizi0475/article/details/7932915)
 1. [PVR/PVRTC解压源码](https://github.com/Volcore/quickpvr)
