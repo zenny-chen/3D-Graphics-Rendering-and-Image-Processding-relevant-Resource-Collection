@@ -15,6 +15,7 @@
 1. [OpenGL调试技巧汇总](https://blog.csdn.net/zjz520yy/article/details/83034140)
 1. [Performance Tunning for Tile-Based Architecture Tile-Based架构下的性能调校](http://www.cnblogs.com/gameknife/p/3515714.html)
 1. [FBO中多重采样抗锯齿（MSAA：MultiSampling Anti-Aliasing）](http://blog.csdn.net/pizi0475/article/details/7932915)
+1. [颜色空间——Gamma与线性颜色空间](https://www.cnblogs.com/guanzz/p/7416821.html)
 1. [PVR/PVRTC解压源码](https://github.com/Volcore/quickpvr)
 1. [png转换成pvz源代码](https://github.com/cjhanson/PNGPOTimizer/tree/CCZ)
 1. [移动平台游戏的性能优化](http://www.csdn.net/article/2015-05-27/2824785)
