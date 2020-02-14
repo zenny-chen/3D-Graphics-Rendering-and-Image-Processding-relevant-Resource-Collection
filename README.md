@@ -12,6 +12,7 @@
 1. [Image Load Store](https://www.khronos.org/opengl/wiki/Image_Load_Store)
 1. [Opengl入门系列- FBO的渲染到纹理的用法](https://blog.csdn.net/zangle260/article/details/40430929)
 1. [非常详细易懂的法线贴图(Normal Mapping)](https://blog.csdn.net/qq_26900671/article/details/79048727)
+1. [凹凸映射（Bump Map）实现原理](https://blog.csdn.net/archielau/article/details/9124341)
 1. [OpenGL调试技巧汇总](https://blog.csdn.net/zjz520yy/article/details/83034140)
 1. [Performance Tunning for Tile-Based Architecture Tile-Based架构下的性能调校](http://www.cnblogs.com/gameknife/p/3515714.html)
 1. [FBO中多重采样抗锯齿（MSAA：MultiSampling Anti-Aliasing）](http://blog.csdn.net/pizi0475/article/details/7932915)
