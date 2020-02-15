@@ -45,6 +45,7 @@
 1. [Path Tracing](https://www.jianshu.com/p/428317cd522a)
 1. [UE4 Real-time Hair Advances](https://www.fxguide.com/fxfeatured/ue4-real-time-hair-advances/)
 1. [Reflection Probe](https://www.jianshu.com/p/585dd805c137)
+1. [Phong 光照模型（镜面反射）](https://www.cnblogs.com/jqm304775992/p/4890634.html)
 
 <br />
 
