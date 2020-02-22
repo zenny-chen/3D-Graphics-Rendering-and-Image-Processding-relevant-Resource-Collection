@@ -7,6 +7,8 @@
 1. [侯思松博客](http://blog.csdn.net/housisong)
 1. [mg博客](https://www.cnblogs.com/minggoddess/)
 1. [handyTOOL的简书OpenGL ES文集](https://www.jianshu.com/nb/11846847)
+1. [梁老师的博客园](https://www.cnblogs.com/len3d/)
+1. [完美的视图旋转算法](https://www.cnblogs.com/len3d/p/5530401.html)
 1. [OpenGL缓冲区对象之UBO](https://blog.csdn.net/csxiaoshui/article/details/32101977)
 1. [使用计算着色器（Compute Shader）模拟粒子效果【OpenGL】](https://blog.csdn.net/panda1234lee/article/details/70521910)
 1. [Image Load Store](https://www.khronos.org/opengl/wiki/Image_Load_Store)
