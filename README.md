@@ -47,6 +47,8 @@
 1. [Path Tracing](https://www.jianshu.com/p/428317cd522a)
 1. [UE4 Real-time Hair Advances](https://www.fxguide.com/fxfeatured/ue4-real-time-hair-advances/)
 1. [Reflection Probe](https://www.jianshu.com/p/585dd805c137)
+1. [各向异性（anisotropic）浅提](https://blog.csdn.net/YuYunTan/article/details/84348037)
+1. [Shader Anisotropic 各项异性](https://blog.csdn.net/baidu_16312167/article/details/75527961)
 1. [Phong 光照模型（镜面反射）](https://www.cnblogs.com/jqm304775992/p/4890634.html)
 1. [这是我们要的未来 英伟达RTX光线追踪技术解析](https://www.toutiao.com/i6768787614779572743/)
 1. [开源库】OpenVDB获得过奥斯卡奖的开源 C++ 库加入ASWF](https://www.cgspread.com/9867.html)（VDB即：**Volumetric Database**）
