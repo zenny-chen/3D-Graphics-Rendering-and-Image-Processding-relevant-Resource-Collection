@@ -8,6 +8,7 @@
 - [mg博客](https://www.cnblogs.com/minggoddess/)
 - [handyTOOL的简书OpenGL ES文集](https://www.jianshu.com/nb/11846847)
 - [梁老师的博客园](https://www.cnblogs.com/len3d/)
+- [图形学:名词解释](https://blog.csdn.net/hellotruth/article/details/40889701)
 - [完美的视图旋转算法](https://www.cnblogs.com/len3d/p/5530401.html)
 - [OpenGL缓冲区对象之UBO](https://blog.csdn.net/csxiaoshui/article/details/32101977)
 - [使用计算着色器（Compute Shader）模拟粒子效果【OpenGL】](https://blog.csdn.net/panda1234lee/article/details/70521910)
