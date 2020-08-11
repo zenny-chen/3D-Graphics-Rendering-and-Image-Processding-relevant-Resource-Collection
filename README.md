@@ -47,6 +47,7 @@
 - [一步一步实现基于GPU的pathtracer（二）：求交算法](https://www.cnblogs.com/time-flow1024/p/6944203.html)
 - [一步一步实现基于GPU的pathtracer（三）：path tracing 简述](https://www.cnblogs.com/time-flow1024/p/9974702.html)
 - [Path Tracing](https://www.jianshu.com/p/428317cd522a)
+- [光线追踪—层次包围盒（ Bounding Volume Hierarchies ）](https://blog.csdn.net/sunshine543123/article/details/107041122)
 - [UE4 Real-time Hair Advances](https://www.fxguide.com/fxfeatured/ue4-real-time-hair-advances/)
 - [Reflection Probe](https://www.jianshu.com/p/585dd805c137)
 - [各向异性（anisotropic）浅提](https://blog.csdn.net/YuYunTan/article/details/84348037)
