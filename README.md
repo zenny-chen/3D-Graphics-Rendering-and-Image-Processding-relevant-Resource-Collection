@@ -82,6 +82,7 @@
 - [一步一步实现基于GPU的pathtracer（三）：path tracing 简述](https://www.cnblogs.com/time-flow1024/p/9974702.html)
 - [Path Tracing](https://www.jianshu.com/p/428317cd522a)
 - [对pathtracing的一些个人理解](https://www.cnblogs.com/time-flow1024/p/6844208.html)
+- [什么是路径追踪？](https://www.toutiao.com/article/7121909050081542688/)
 - [光线追踪—层次包围盒（ Bounding Volume Hierarchies ）](https://blog.csdn.net/sunshine543123/article/details/107041122)
 - [如果想在GPU里软件方式计算射线和场景加速求交，SDF和BVH哪个好，各有什么优缺点？](https://www.zhihu.com/question/476683981)
 - [UE4 Real-time Hair Advances](https://www.fxguide.com/fxfeatured/ue4-real-time-hair-advances/)
