@@ -29,7 +29,6 @@
 - [移动平台游戏的性能优化](http://www.csdn.net/article/2015-05-27/2824785)
 - [数字图像处理 傅里叶变换](http://blog.csdn.net/zkp0601/article/details/41295283)
 - [轻量级隐写分析模型](https://www.toutiao.com/i6895918997670363651/)
-
 - [D3D渲染技术之纹理](https://blog.csdn.net/jxw167/article/details/82824741)
 
 在Direct3D的颜色表示中，**_SNORM** 后缀表示带符号的规格化的整数；它在一个资源中表示为一个带符号的整型数据，且在shader中被解释为一个带符号的范围在[-1, 1]的浮点值。对于以2的补码形式的整数来说，最大值为1.0f（一个5位的二进制数01111映射为1.0f），最小值是-1.0f（一个5位二进制数10000映射为-1.0f）。此外，第二小的数也被映射为-1.0f（一个5位的二进制数10001被映射为-1.0f）。整数结果的表示被均匀地分布在(-1.0 ... 0.0f) 浮点值范围内，且相对的其补集表示的数在 (0.0f ... 1.0f) 范围内。**_UNORM** 后缀表示无符号规格化整数；它在一个资源中被解释为一个无符号整数，且在shader中被解释为一个无符号的规格化的浮点数，范围在[0, 1]内。所有0被映射为0.0f，而所有的1被映射为1.0f。一个均匀分布的浮点值序列被表示为从0.0f到1.0f。例如，一个2比特的UNORM（00, 01, 10, 11）分别表示为：0.0f，1/3，2/3及1.0f。
@@ -48,6 +47,7 @@
 - 在OpenGL ES 2.0以及之后，着色模式作为着色器语言中的**插值限定符**（**Interpolation Qualifiers**），使用`flat`或`smooth`来指定。默认缺省为`smooth`插值。
 - [gluLookAt](https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml/gluLookAt.xml)
 - [GluLookAt code](https://www.khronos.org/opengl/wiki/GluLookAt_code)
+- [Vulkan 右手坐标系见解](https://zhuanlan.zhihu.com/p/365830760)
 - [浅谈OpenGL之DSA](https://www.cnblogs.com/hellobb/p/13943969.html)
 - [OpenGL三维纹理坐标](http://blog.sina.com.cn/s/blog_687960370101gyh8.html)
 - [OpenGL版本低于4.5的glBindTextureUnit的替代品?](http://ask.sov5.cn/q/xaqaFk3Esa)
