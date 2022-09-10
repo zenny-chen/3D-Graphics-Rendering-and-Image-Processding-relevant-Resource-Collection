@@ -43,7 +43,7 @@
 - [OpenGL ES 2.0+ 如何设置点的大小](https://gamedev.stackexchange.com/questions/11095/opengl-es-2-0-point-sprites-size)
 -  [Point Sprites](http://www.informit.com/articles/article.aspx?p=770639&seqNum=7)
 - [Chapter 7. Sprites and Text](https://www.oreilly.com/library/view/iphone-3d-programming/9781449388133/ch07.html)
-- 在OpenGL ES 2.0以及之后，着色模式作为着色器语言中的**插值限定符**（**Interpolation Qualifiers**），使用`flat`或`smooth`来指定。默认缺省为`smooth`插值。
+- [OpenGL Interpolation Qualifiers (GLSL)](https://www.geeks3d.com/20130514/opengl-interpolation-qualifiers-glsl-tutorial/)
 - [gluLookAt](https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml/gluLookAt.xml)
 - [GluLookAt code](https://www.khronos.org/opengl/wiki/GluLookAt_code)
 - [从零开始的Vulkan](https://www.zhihu.com/column/c_1542671286655873024)
