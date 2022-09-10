@@ -71,6 +71,7 @@
 - [OpenGL图像\(image\)](https://blog.csdn.net/qq_16555407/article/details/84307374)
 - [difference between glTextureBarrier\(\) and glMemoryBarrier\(GL_TEXTURE_FETCH_BARRIER_BIT\)](https://stackoverflow.com/questions/37448712/difference-between-gltexturebarrier-and-glmemorybarriergl-texture-fetch-barri)
 - [Vertex Rendering](https://www.khronos.org/opengl/wiki/Vertex_Rendering)
+- [Early Fragment Test](https://www.khronos.org/opengl/wiki/Early_Fragment_Test)
 - [Primitive Restart and OpenGL Interoperability](https://www.codeproject.com/articles/201263/part-6-primitive-restart-and-opengl-interoperabili)
 - [OpenGL ES 3.0: 图元重启\(Primitive restart\)](https://www.cnblogs.com/psklf/p/5750783.html)
 - [OpenGL 图元重启](https://blog.csdn.net/yulinxx/article/details/77896541)
