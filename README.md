@@ -68,6 +68,16 @@
 - [OpenGL Image Load Store Wiki](https://www.khronos.org/opengl/wiki/Image_Load_Store)
 - [Trouble with imageStore\(\) \(OpenGL 4.3\)](https://stackoverflow.com/questions/14285849/trouble-with-imagestore-opengl-4-3) （In desktop OpenGL, it is perfectly legal to upload floating-point data to a normalized integer texture; OpenGL is expected to convert the data as best it can. ES doesn't do conversions, so it has to change the internal format (the third parameter) to match the data.）
 - [Can't access fbo attached texture in GLSL compute shader with gimage2D](https://stackoverflow.com/questions/22947896/cant-access-fbo-attached-texture-in-glsl-compute-shader-with-gimage2d)
+- 多个color attachment的输出：
+```glsl
+#version 450 core
+layout(location = 0) out vec4 color_out;
+layout(location = 1) out vec4 color_out1;
+void main() {
+  color_out = vec4(0.0, 0.5, 0.0, 0.8);
+  color_out1 = vec4(1.0, 1.0, 1.0, 1.0);
+}
+```
 - [OpenGL 图像的加载和存储](https://blog.csdn.net/dayenglish/article/details/51439296)
 - [OpenGL图像\(image\)](https://blog.csdn.net/qq_16555407/article/details/84307374)
 - [difference between glTextureBarrier\(\) and glMemoryBarrier\(GL_TEXTURE_FETCH_BARRIER_BIT\)](https://stackoverflow.com/questions/37448712/difference-between-gltexturebarrier-and-glmemorybarriergl-texture-fetch-barri)
