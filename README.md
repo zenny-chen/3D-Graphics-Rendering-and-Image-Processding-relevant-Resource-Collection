@@ -46,6 +46,8 @@
 - 在OpenGL ES 2.0以及之后，着色模式作为着色器语言中的**插值限定符**（**Interpolation Qualifiers**），使用`flat`或`smooth`来指定。默认缺省为`smooth`插值。
 - [gluLookAt](https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml/gluLookAt.xml)
 - [GluLookAt code](https://www.khronos.org/opengl/wiki/GluLookAt_code)
+- [从零开始的Vulkan](https://www.zhihu.com/column/c_1542671286655873024)
+- [一起学Vulkan图形开发](https://www.zhihu.com/column/chenyong2vulkan)
 - [Render graphs and Vulkan — a deep dive](http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
 - [A simple Vulkan Compute example](http://www.duskborn.com/posts/a-simple-vulkan-compute-example/)
 - [\[vulkan\] compute shader](https://zhuanlan.zhihu.com/p/56106712)
@@ -54,7 +56,6 @@
 - [How to use a vulkan sampler with unnormalized texture-coordinates?](https://stackoverflow.com/questions/65790303/how-to-use-a-vulkan-sampler-with-unnormalized-texture-coordinates-without-trig)
 - [Vulkan中的同步与缓存控制](https://zhuanlan.zhihu.com/p/161619652)
 - [\[译\]Vulkan教程(23)暂存buffer](https://www.cnblogs.com/bitzhuwei/p/Vulkan-Tutoria-23-Staging-buffer.html)
-- [一起学Vulkan图形开发](https://www.zhihu.com/column/chenyong2vulkan)
 - [从Vulkan API看Shader的数据绑定机制](https://zhuanlan.zhihu.com/p/111882744)
 - [Vulkan推荐用法(三星设备)](https://zhuanlan.zhihu.com/p/97321638)
 - [浅谈OpenGL之DSA](https://www.cnblogs.com/hellobb/p/13943969.html)
