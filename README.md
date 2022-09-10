@@ -69,6 +69,7 @@
 - [Trouble with imageStore\(\) \(OpenGL 4.3\)](https://stackoverflow.com/questions/14285849/trouble-with-imagestore-opengl-4-3) （In desktop OpenGL, it is perfectly legal to upload floating-point data to a normalized integer texture; OpenGL is expected to convert the data as best it can. ES doesn't do conversions, so it has to change the internal format (the third parameter) to match the data.）
 - [Can't access fbo attached texture in GLSL compute shader with gimage2D](https://stackoverflow.com/questions/22947896/cant-access-fbo-attached-texture-in-glsl-compute-shader-with-gimage2d)
 - [Vulkan input attachments and sub passes](https://www.saschawillems.de/blog/2018/07/19/vulkan-input-attachments-and-sub-passes/)
+- [Input Attachments - reading random location? Read/Write in same pass?](https://community.khronos.org/t/input-attachments-reading-random-location-read-write-in-same-pass/7035)
 - 多个color attachment的输出：
 ```glsl
 #version 450 core
