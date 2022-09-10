@@ -75,8 +75,8 @@ layout(location = 0) out vec4 color_out;
 layout(location = 1) out vec4 color_out1;
 void main(void)
 {
-  color_out = vec4(0.0, 0.5, 0.0, 0.8);
-  color_out1 = vec4(1.0, 1.0, 1.0, 1.0);
+    color_out = vec4(0.0, 0.5, 0.0, 0.8);
+    color_out1 = vec4(1.0, 1.0, 1.0, 1.0);
 }
 ```
 - [OpenGL 图像的加载和存储](https://blog.csdn.net/dayenglish/article/details/51439296)
