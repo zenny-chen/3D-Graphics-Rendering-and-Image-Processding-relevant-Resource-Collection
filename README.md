@@ -10,6 +10,7 @@
 - [梁老师的博客园](https://www.cnblogs.com/len3d/)
 - [Morgan McGuire](https://research.nvidia.com/person/morgan-mcguire?tdsourcetag=s_pcqq_aiomsg)
 - [GPU渲染管线之旅（GPU渲染管线中的硬件实现）](https://www.zhihu.com/column/c_1265245746099941376)
+- [OpenGL -- 屏幕成像和渲染原理解析](https://www.toutiao.com/article/7153963074285322791/)
 - [图形学:名词解释](https://blog.csdn.net/hellotruth/article/details/40889701)
 - [完美的视图旋转算法](https://www.cnblogs.com/len3d/p/5530401.html)
 - [OpenGL缓冲区对象之UBO](https://blog.csdn.net/csxiaoshui/article/details/32101977)
