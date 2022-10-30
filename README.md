@@ -57,6 +57,7 @@
 - [How to use a vulkan sampler with unnormalized texture-coordinates?](https://stackoverflow.com/questions/65790303/how-to-use-a-vulkan-sampler-with-unnormalized-texture-coordinates-without-trig)
 - [Vulkan中的同步与缓存控制](https://zhuanlan.zhihu.com/p/161619652)
 - [\[译\]Vulkan教程(23)暂存buffer](https://www.cnblogs.com/bitzhuwei/p/Vulkan-Tutoria-23-Staging-buffer.html)
+- [Vulkan Mobile Best Practices - Management of Command Buffers and Multi-Threaded Recording](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/vulkan-mobile-best-practices-and-management)
 - [从Vulkan API看Shader的数据绑定机制](https://zhuanlan.zhihu.com/p/111882744)
 - [Vulkan推荐用法(三星设备)](https://zhuanlan.zhihu.com/p/97321638)
 - [浅谈OpenGL之DSA](https://www.cnblogs.com/hellobb/p/13943969.html)
