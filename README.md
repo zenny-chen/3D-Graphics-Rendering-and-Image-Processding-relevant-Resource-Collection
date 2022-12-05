@@ -68,6 +68,7 @@
 ](https://stackoverflow.com/questions/44754479/issue-with-rgba32f-texture-format-and-mipmapping-using-opengl-es-3-0)
 - [Render to half float texture](https://stackoverflow.com/questions/23253497/render-to-half-float-texture)
 - [OpenGL Image Load Store Wiki](https://www.khronos.org/opengl/wiki/Image_Load_Store)
+- Khronos OpenGL官方文档中关于描述的 **`gbufferImage`** 类型，实际所对应的类型为：**`imageBuffer`**、**`iimageBuffer`** 和 **`uimageBuffer`**。该类型对应于Vulkan中具有 **`VK_BUFFER_USAGE_STORAGE_TEXEL_BUFFER_BIT`** usage的 **`VkBuffer`**。同时在使用此buffer时需要结合 **`VkBufferView`** 一起使用。
 - [Trouble with imageStore\(\) \(OpenGL 4.3\)](https://stackoverflow.com/questions/14285849/trouble-with-imagestore-opengl-4-3) （In desktop OpenGL, it is perfectly legal to upload floating-point data to a normalized integer texture; OpenGL is expected to convert the data as best it can. ES doesn't do conversions, so it has to change the internal format (the third parameter) to match the data.）
 - [Can't access fbo attached texture in GLSL compute shader with gimage2D](https://stackoverflow.com/questions/22947896/cant-access-fbo-attached-texture-in-glsl-compute-shader-with-gimage2d)
 - [Vulkan input attachments and sub passes](https://www.saschawillems.de/blog/2018/07/19/vulkan-input-attachments-and-sub-passes/)
