@@ -45,7 +45,7 @@
 - [Order-Independent Transparency](https://www.cnblogs.com/mavaL/p/3525890.html)
 - [OpenGL Dual Source Blending](https://www.khronos.org/opengl/wiki/Blending)
 - [OpenGL ES 2.0+ 如何设置点的大小](https://gamedev.stackexchange.com/questions/11095/opengl-es-2-0-point-sprites-size)
--  [Point Sprites](http://www.informit.com/articles/article.aspx?p=770639&seqNum=7)
+- [Point Sprites](http://www.informit.com/articles/article.aspx?p=770639&seqNum=7)
 - [Chapter 7. Sprites and Text](https://www.oreilly.com/library/view/iphone-3d-programming/9781449388133/ch07.html)
 - [OpenGL Interpolation Qualifiers (GLSL)](https://www.geeks3d.com/20130514/opengl-interpolation-qualifiers-glsl-tutorial/)
 - [gluLookAt](https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml/gluLookAt.xml)
@@ -77,9 +77,11 @@
 - [OpenGL三维纹理坐标](http://blog.sina.com.cn/s/blog_687960370101gyh8.html)
 - [OpenGL版本低于4.5的glBindTextureUnit的替代品?](http://ask.sov5.cn/q/xaqaFk3Esa)
 - [OpenGL之——多纹理，混合纹理设置渲染](https://blog.csdn.net/qq_35294564/article/details/86546797)
-- [Issue with RGBA32F texture format and mipmapping using OpenGL ES 3.0
-](https://stackoverflow.com/questions/44754479/issue-with-rgba32f-texture-format-and-mipmapping-using-opengl-es-3-0)
+- [Issue with RGBA32F texture format and mipmapping using OpenGL ES 3.0](https://stackoverflow.com/questions/44754479/issue-with-rgba32f-texture-format-and-mipmapping-using-opengl-es-3-0)
 - [Render to half float texture](https://stackoverflow.com/questions/23253497/render-to-half-float-texture)
+- [Data Type \(GLSL\)](https://www.khronos.org/opengl/wiki/Data_Type_\(GLSL\))（其中包含了结构体类型 **`struct`**）
+- GLSL中，结构体必须至少含有一个成员声明。成员声明符可以包含精度限定符，但不能使用其他限定符，否则会导致编译时错误。GLSL中的结构体不支持位域（**bit fields**）。成员的类型必须是已经定义过的（不允许存在不完整类型）。如果成员声明包含了一个初始化器，那么会产生编译时错误。如果成员是一个数组，那么它必须具有一个指定的非零大小，且用于指定该大小的表达式必须是一个 **整数常量表达式**（[Constant Expressions](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.60.html#constant-expressions)）。
+- [Interface Block \(GLSL\)](https://www.khronos.org/opengl/wiki/Interface_Block_\(GLSL\))
 - [OpenGL Image Load Store Wiki](https://www.khronos.org/opengl/wiki/Image_Load_Store)
 - Khronos OpenGL官方文档中关于描述的 **`gbufferImage`** 类型，实际所对应的类型为：**`imageBuffer`**、**`iimageBuffer`** 和 **`uimageBuffer`**。该类型对应于Vulkan中具有 **`VK_BUFFER_USAGE_STORAGE_TEXEL_BUFFER_BIT`** usage的 **`VkBuffer`**。同时在使用此buffer时需要结合 **`VkBufferView`** 一起使用。
 - [Trouble with imageStore\(\) \(OpenGL 4.3\)](https://stackoverflow.com/questions/14285849/trouble-with-imagestore-opengl-4-3) （In desktop OpenGL, it is perfectly legal to upload floating-point data to a normalized integer texture; OpenGL is expected to convert the data as best it can. ES doesn't do conversions, so it has to change the internal format (the third parameter) to match the data.）
