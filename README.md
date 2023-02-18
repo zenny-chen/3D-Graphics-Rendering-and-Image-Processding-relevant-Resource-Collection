@@ -60,6 +60,7 @@
 - [Vulkan查询支持哪些纹理采样格式的VkFormat——vkGetPhysicalDeviceImageFormatProperties](https://registry.khronos.org/vulkan/specs/1.3-extensions/man/html/vkGetPhysicalDeviceImageFormatProperties.html)
 - [Vulkan中的同步与缓存控制](https://zhuanlan.zhihu.com/p/161619652)
 - [\[译\]Vulkan教程(23)暂存buffer](https://www.cnblogs.com/bitzhuwei/p/Vulkan-Tutoria-23-Staging-buffer.html)
+- [How to use Vulkan Timestamp Queries.](https://nikitablack.github.io/post/how_to_use_vulkan_timestamp_queries/)
 - [Vulkan Mobile Best Practices - Management of Command Buffers and Multi-Threaded Recording](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/vulkan-mobile-best-practices-and-management)
 - [从Vulkan API看Shader的数据绑定机制](https://zhuanlan.zhihu.com/p/111882744)
 - [Vulkan推荐用法(三星设备)](https://zhuanlan.zhihu.com/p/97321638)
