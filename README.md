@@ -10,6 +10,7 @@
 - [梁老师的博客园](https://www.cnblogs.com/len3d/)
 - [Morgan McGuire](https://research.nvidia.com/person/morgan-mcguire?tdsourcetag=s_pcqq_aiomsg)
 - [What exactly is a softlock?](https://gaming.stackexchange.com/questions/357095/what-exactly-is-a-softlock)
+- [Advanced Graphics Programming Techniques](https://www.opengl.org/archives/resources/code/samples/sig99/advanced99/notes/notes.html)
 - [GPU渲染管线之旅（GPU渲染管线中的硬件实现）](https://www.zhihu.com/column/c_1265245746099941376)
 - [OpenGL -- 屏幕成像和渲染原理解析](https://www.toutiao.com/article/7153963074285322791/)
 - [图形学:名词解释](https://blog.csdn.net/hellotruth/article/details/40889701)
@@ -74,6 +75,7 @@
 - [Would love to see optional Geometry Shaders](https://github.com/gpuweb/gpuweb/issues/1239)
 - [【OpenGL】笔记二十七、几何着色器](https://blog.csdn.net/ycrsw/article/details/125128835)
 - [OpenGL之几何着色器(Geometry Shader)详解](https://blog.csdn.net/What_can_you_do/article/details/128255831)
+- [GLSL \#include](https://www.gamedev.net/forums/topic/316061-glsl-include/)
 - [浅谈OpenGL之DSA](https://www.cnblogs.com/hellobb/p/13943969.html)
 - [OpenGL三维纹理坐标](http://blog.sina.com.cn/s/blog_687960370101gyh8.html)
 - [OpenGL版本低于4.5的glBindTextureUnit的替代品?](http://ask.sov5.cn/q/xaqaFk3Esa)
@@ -112,12 +114,19 @@ void main(void)
 - [2D变3D，视角随意换，神还原高清立体感，还是不用3D建模的那种 | 代码数据开源](https://mp.weixin.qq.com/s/zz3WQvnwoGLg58SCRn7YjA)
 - [android framebuffer和HAL以及显示系统](https://blog.csdn.net/wanglongwang201209/article/details/12616197)
 - [Android下Opengl ES实现单屏幕双眼显示](https://blog.csdn.net/u011371324/article/details/68946779)
-- [Advanced Graphics Programming Techniques](https://www.opengl.org/archives/resources/code/samples/sig99/advanced99/notes/notes.html)
-- [计算机视觉的计算几何及Python实现](https://www.toutiao.com/a6637430623361303053)
 - [Bit blit](https://en.wikipedia.org/wiki/Bit_blit)
-- [GLSL \#include](https://www.gamedev.net/forums/topic/316061-glsl-include/)
 - [What are the key differences between Open Shader Language and GLSL](https://stackoverflow.com/questions/46093694/what-are-the-key-differences-between-open-shader-language-and-glsl)
 - [Arm Frame Buffer Compression (AFBC)](https://developer.arm.com/architectures/media-architectures/afbc)
+- [计算机视觉的计算几何及Python实现](https://www.toutiao.com/a6637430623361303053)
+- [polygon-mesh-in-computer-graphics](https://www.geeksforgeeks.org/polygon-mesh-in-computer-graphics/)
+> A mesh is a collection of vertices, edges, and faces that define a 3D object's shape and geometry, it's used to represent 3D objects in computer graphics programs; it provides a way to define the object's surface in terms of vertices, edges, and faces.
+```javascript
+var geometry = new THREE.BoxGeometry(1, 1, 1),
+var material = new THREE.MeshBasicMaterial({color: 0x00ff00}),
+var cube = new THREE.Mesh(geometry, material),
+scene.add(cube)
+```
+- [Computer Graphics Surfaces](https://www.tutorialspoint.com/computer_graphics/computer_graphics_surfaces.htm)
 - [流形 & 非流形 释义](https://blog.csdn.net/weixin_30672019/article/details/101393043)
 - [【翻译】哪些是流形，哪些不是流形](https://zhuanlan.zhihu.com/p/259312398)
 - [经过数十年的长期搜索，发现了超乎想象的曲面](https://www.163.com/dy/article/H987B5I20511831M.html)（这里提到了“亏格”【**genus**】）
