@@ -132,6 +132,8 @@ scene.add(cube)
 - [经过数十年的长期搜索，发现了超乎想象的曲面](https://www.163.com/dy/article/H987B5I20511831M.html)（这里提到了“亏格”【**genus**】）
 - [16.4 三角形扇形(Fans)、条形(Strips)和网格](https://zhuanlan.zhihu.com/p/402709877)（`连接到一个顶点的边的数目称为顶点的价(valence)`）
 - [Boundary Edge](https://www.sciencedirect.com/topics/engineering/boundary-edge)
+- [网格边的种类](https://blog.csdn.net/dsfsdffgfd/article/details/122884409)
+- [15.2 渲染轮廓](https://zhuanlan.zhihu.com/p/398383275)
 - [一步一步实现基于GPU的pathtracer（一）：基础](https://www.cnblogs.com/time-flow1024/p/6943508.html)
 - [一步一步实现基于GPU的pathtracer（二）：求交算法](https://www.cnblogs.com/time-flow1024/p/6944203.html)
 - [一步一步实现基于GPU的pathtracer（三）：path tracing 简述](https://www.cnblogs.com/time-flow1024/p/9974702.html)
