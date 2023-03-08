@@ -103,6 +103,7 @@ void main(void)
 }
 ```
 - [Precise Qualifier in GLSL and NVIDIA GeForce Cards](https://www.geeks3d.com/20120106/precise-qualifier-in-glsl-and-nvidia-geforce-cards/)
+- [Image Format](https://www.khronos.org/opengl/wiki/Image_Format)
 - [OpenGL 图像的加载和存储](https://blog.csdn.net/dayenglish/article/details/51439296)
 - [OpenGL图像\(image\)](https://blog.csdn.net/qq_16555407/article/details/84307374)
 - [difference between glTextureBarrier\(\) and glMemoryBarrier\(GL_TEXTURE_FETCH_BARRIER_BIT\)](https://stackoverflow.com/questions/37448712/difference-between-gltexturebarrier-and-glmemorybarriergl-texture-fetch-barri)
