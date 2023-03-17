@@ -75,6 +75,7 @@
 - [Would love to see optional Geometry Shaders](https://github.com/gpuweb/gpuweb/issues/1239)
 - [【OpenGL】笔记二十七、几何着色器](https://blog.csdn.net/ycrsw/article/details/125128835)
 - [OpenGL之几何着色器(Geometry Shader)详解](https://blog.csdn.net/What_can_you_do/article/details/128255831)
+- [Core Language (GLSL)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))
 - [GLSL \#include](https://www.gamedev.net/forums/topic/316061-glsl-include/)
 - [浅谈OpenGL之DSA](https://www.cnblogs.com/hellobb/p/13943969.html)
 - [OpenGL三维纹理坐标](http://blog.sina.com.cn/s/blog_687960370101gyh8.html)
