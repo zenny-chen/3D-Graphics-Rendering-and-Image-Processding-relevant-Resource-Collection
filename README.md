@@ -78,6 +78,7 @@
 - [Core Language (GLSL)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))
 - [GLSL \#include](https://www.gamedev.net/forums/topic/316061-glsl-include/)
 - [浅谈OpenGL之DSA](https://www.cnblogs.com/hellobb/p/13943969.html)
+- OpenGL保存当前状态：[glPushAttrib function](https://learn.microsoft.com/en-us/windows/win32/opengl/glpushattrib)
 - [OpenGL三维纹理坐标](http://blog.sina.com.cn/s/blog_687960370101gyh8.html)
 - [OpenGL版本低于4.5的glBindTextureUnit的替代品?](http://ask.sov5.cn/q/xaqaFk3Esa)
 - [OpenGL之——多纹理，混合纹理设置渲染](https://blog.csdn.net/qq_35294564/article/details/86546797)
