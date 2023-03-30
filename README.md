@@ -183,21 +183,35 @@ scene.add(cube)
 
 <br />
 
-### OpenGL中对各种四元向量数据类型的分量标识
+## Geometry Image Relevant Repositories
+
+- [MeshLab](https://github.com/cnr-isti-vclab/meshlab)
+- [CGAL](https://github.com/CGAL/cgal)
+- [Surface-Parameterization-Algorithms](https://github.com/xuan-li/Surface-Parameterization-Algorithms)
+- [TPGIM1.0](https://github.com/zslyt/TPGIM)
+- [spherical-conformal-map](https://github.com/garyptchoi/spherical-conformal-map)
+- [rectangular-conformal-map](https://github.com/garyptchoi/rectangular-conformal-map)
+- [disk-conformal-map](https://github.com/garyptchoi/disk-conformal-map)
+- [ConformalGeometry](https://github.com/lilinxi/ConformalGeometry)
+- [Computational Conformal Geometry 2020 Summer School](https://github.com/Szkered/CG2020)
+
+<br />
+
+## OpenGL中对各种四元向量数据类型的分量标识
 - 顶点坐标：x, y, z, w
 - 纹理坐标：s, t, r, q
 - 颜色通道：r, g, b, a
 
 <br />
 
-### PS2模拟器相关技术
+## PS2模拟器相关技术
 
 - [Alpha Testing in the GS world](https://pcsx2.net/developer-blog/279-alpha-testing-gs-world.html)
 - [Setting up Windows version](https://wiki.pcsx2.net/Setting_up_Windows_version)
 
 <br />
 
-### 以下为各个图形API的图形流水线
+## 以下为各个图形API的图形流水线
 
 ![1.png](https://github.com/zenny-chen/3D-Graphics-Rendering-and-Image-Processding-relevant-Resource-Collection/blob/master/1.png)
 
