@@ -186,8 +186,10 @@ scene.add(cube)
 ## Geometry Image Relevant Repositories
 
 - [MeshLab](https://github.com/cnr-isti-vclab/meshlab)
+- [PyMesh](https://github.com/PyMesh/PyMesh)
 - [CGAL](https://github.com/CGAL/cgal)
 - [Surface-Parameterization-Algorithms](https://github.com/xuan-li/Surface-Parameterization-Algorithms)
+- [Geometry Processing – Parameterization](https://github.com/alecjacobson/geometry-processing-parameterization)
 - [TPGIM1.0](https://github.com/zslyt/TPGIM)
 - [spherical-conformal-map](https://github.com/garyptchoi/spherical-conformal-map)
 - [rectangular-conformal-map](https://github.com/garyptchoi/rectangular-conformal-map)
