@@ -196,6 +196,13 @@ scene.add(cube)
 - [disk-conformal-map](https://github.com/garyptchoi/disk-conformal-map)
 - [ConformalGeometry](https://github.com/lilinxi/ConformalGeometry)
 - [Computational Conformal Geometry 2020 Summer School](https://github.com/Szkered/CG2020)
+- [Riemann Surface - Software](https://www3.cs.stonybrook.edu/~gu/software/index.html)
+- [Riemann Mapping Tutorial with C++ Source](https://www3.cs.stonybrook.edu/~gu/tutorial/RiemannMapping.html)
+- [RiemannMapper : A Mesh Parameterization Toolkit](https://www3.cs.stonybrook.edu/~gu/software/RiemannMapper/index.html)
+- [Discrete conformal equivalence of polyhedral surfaces](https://dl.acm.org/doi/abs/10.1145/3450626.3459763)
+- [xatlas](https://github.com/jpcy/xatlas)
+- [Rectangular Multi-Chart Geometry Images](https://www.cs.cmu.edu/~kmcrane/Projects/RectangularMultiChartGeometryImages/)
+- [Multi-chart geometry images](https://hhoppe.com/proj/mcgim/)
 
 <br />
 
