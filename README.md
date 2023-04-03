@@ -181,6 +181,7 @@ scene.add(cube)
 - [Arnold(C4DToA)阿诺德渲染教程(111)：Arnold体系架构、设计理念、指导思想、技术内幕等 来自Solid Angle开发团队 最新的文献指南](https://www.btbat.com/10349.html/comment-page-11)
 - [Maya Release GPU memory for unused textures](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Maya/files/GUID-74599EBE-1DC5-4ECE-86C0-A0216ABE0794-htm.html)
 - [maya文件路径变量环境变量](https://blog.csdn.net/tian0000hai/article/details/90608132)
+- [数字图像处理查找表LUT的介绍](https://blog.csdn.net/weixin_39527768/article/details/111221982)
 
 <br />
 
