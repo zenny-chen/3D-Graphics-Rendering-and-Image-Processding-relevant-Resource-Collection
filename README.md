@@ -136,6 +136,7 @@ scene.add(cube)
 - [经过数十年的长期搜索，发现了超乎想象的曲面](https://www.163.com/dy/article/H987B5I20511831M.html)（这里提到了“亏格”【**genus**】）
 - [16.4 三角形扇形(Fans)、条形(Strips)和网格](https://zhuanlan.zhihu.com/p/402709877)（`连接到一个顶点的边的数目称为顶点的价(valence)`）
 - [Boundary Edge](https://www.sciencedirect.com/topics/engineering/boundary-edge)
+- [Geodesic Distance（测地距离）](https://blog.csdn.net/Will_Ch/article/details/111185619)
 - [网格边的种类](https://blog.csdn.net/dsfsdffgfd/article/details/122884409)
 - [15.2 渲染轮廓](https://zhuanlan.zhihu.com/p/398383275)
 - [计算机图形学-AABB碰撞检测算法](https://blog.csdn.net/qq_43369406/article/details/123683999)
