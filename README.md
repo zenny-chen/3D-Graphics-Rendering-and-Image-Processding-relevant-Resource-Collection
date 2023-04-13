@@ -130,6 +130,7 @@ var cube = new THREE.Mesh(geometry, material),
 scene.add(cube)
 ```
 - [Computer Graphics Surfaces](https://www.tutorialspoint.com/computer_graphics/computer_graphics_surfaces.htm)
+- [obj文件格式](https://zhuanlan.zhihu.com/p/552909558)
 - [流形 & 非流形 释义](https://blog.csdn.net/weixin_30672019/article/details/101393043)
 - [【翻译】哪些是流形，哪些不是流形](https://zhuanlan.zhihu.com/p/259312398)
 - [Shapr3D 是否能创建流形几何？非流形几何？](https://zhuanlan.zhihu.com/p/383617844)
