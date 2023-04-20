@@ -185,6 +185,9 @@ scene.add(cube)
 - [Maya Release GPU memory for unused textures](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Maya/files/GUID-74599EBE-1DC5-4ECE-86C0-A0216ABE0794-htm.html)
 - [maya文件路径变量环境变量](https://blog.csdn.net/tian0000hai/article/details/90608132)
 - [数字图像处理查找表LUT的介绍](https://blog.csdn.net/weixin_39527768/article/details/111221982)
+- [OLED demura技术学习part1](https://blog.csdn.net/longmal/article/details/103850243)
+- [OLED demura技术学习part2](https://blog.csdn.net/longmal/article/details/103850408)
+- [AMOLED の 画质神器【Demura】](https://baijiahao.baidu.com/s?id=1700291087993044948)
 
 <br />
 
