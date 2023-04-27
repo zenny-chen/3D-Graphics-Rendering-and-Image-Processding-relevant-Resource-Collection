@@ -84,7 +84,8 @@
 - [OpenGL之——多纹理，混合纹理设置渲染](https://blog.csdn.net/qq_35294564/article/details/86546797)
 - [Issue with RGBA32F texture format and mipmapping using OpenGL ES 3.0](https://stackoverflow.com/questions/44754479/issue-with-rgba32f-texture-format-and-mipmapping-using-opengl-es-3-0)
 - [Render to half float texture](https://stackoverflow.com/questions/23253497/render-to-half-float-texture)
-- [Read texture data](https://riptutorial.com/opengl/example/23514/read-texture-data)（使用：**`glGetTexImage`**）
+- [Read texture data](https://riptutorial.com/opengl/example/23514/read-texture-data)（OpenGL使用：**`glGetTexImage`**）
+- 利用GLU工具库对任意原始图像数据进行缩放：[gluScaleImage function](https://learn.microsoft.com/en-us/windows/win32/opengl/gluscaleimage)
 - [Data Type \(GLSL\)](https://www.khronos.org/opengl/wiki/Data_Type_\(GLSL\))（其中包含了结构体类型 **`struct`**）
 - GLSL中，结构体必须至少含有一个成员声明。成员声明符可以包含精度限定符，但不能使用其他限定符，否则会导致编译时错误。GLSL中的结构体不支持位域（**bit fields**）。成员的类型必须是已经定义过的（不允许存在不完整类型）。如果成员声明包含了一个初始化器，那么会产生编译时错误。如果成员是一个数组，那么它必须具有一个指定的非零大小，且用于指定该大小的表达式必须是一个 **整数常量表达式**（[Constant Expressions](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.60.html#constant-expressions)）。
 - [Interface Block \(GLSL\)](https://www.khronos.org/opengl/wiki/Interface_Block_\(GLSL\))
