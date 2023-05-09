@@ -234,6 +234,22 @@ scene.add(cube)
 
 <br />
 
+## RGB与YUV相互转换的一般快速算法
+
+相关文档可参考Wikipedia上的——[YUV](http://en.wikipedia.org/wiki/YUV)
+
+RGB转YUV的算法描述可见如下信息：
+
+![rgb-to-yuv](rgb2yuv.png)
+
+YUV转RGB的算法描述可见以下图示：
+
+![yuv2rgb](yuv2rgb.png)
+
+另外，在 http://en.wikipedia.org/wiki/Talk:YUV 中有一段对YUV转RGB的用C语言描述的近似算法。
+
+<br />
+
 ## 以下为各个图形API的图形流水线
 
 ![1.png](https://github.com/zenny-chen/3D-Graphics-Rendering-and-Image-Processding-relevant-Resource-Collection/blob/master/1.png)
