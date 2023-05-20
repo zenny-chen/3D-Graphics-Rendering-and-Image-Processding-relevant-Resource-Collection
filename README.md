@@ -77,6 +77,8 @@
 - [OpenGL之几何着色器(Geometry Shader)详解](https://blog.csdn.net/What_can_you_do/article/details/128255831)
 - [Core Language (GLSL)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))
 - [GLSL \#include](https://www.gamedev.net/forums/topic/316061-glsl-include/)
+- [OpenGL 4.2 Atomic Counter Demo: Rendering Order of Fragments](https://www.geeks3d.com/20120309/opengl-4-2-atomic-counter-demo-rendering-order-of-fragments/)
+- [OpenGL-Atomic Operations on Images（一）](https://zhuanlan.zhihu.com/p/84191004)
 - [浅谈OpenGL之DSA](https://www.cnblogs.com/hellobb/p/13943969.html)
 - OpenGL保存当前状态：[glPushAttrib function](https://learn.microsoft.com/en-us/windows/win32/opengl/glpushattrib)
 - [OpenGL三维纹理坐标](http://blog.sina.com.cn/s/blog_687960370101gyh8.html)
