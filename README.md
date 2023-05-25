@@ -70,6 +70,7 @@
 - [A simple Vulkan Compute example](http://www.duskborn.com/posts/a-simple-vulkan-compute-example/)
 - [\[vulkan\] compute shader](https://zhuanlan.zhihu.com/p/56106712)
 - [User defined WorkGroup sizes in Vulkan Compute shaders](https://community.khronos.org/t/user-defined-workgroup-sizes-in-vulkan-compute-shaders/7082)
+- [Compute Shaders in D3D12](https://logins.github.io/graphics/2020/10/31/D3D12ComputeShaders.html)
 - [使用计算着色器（Compute Shader）模拟粒子效果【OpenGL】](https://blog.csdn.net/panda1234lee/article/details/70521910)
 - [OpenGL ES3.1使用计算着色器（Compute Shader）](https://blog.csdn.net/qq_39561000/article/details/103112147)
 - [同步连续的OpenGL Compute Shader调用](https://qastack.cn/computergraphics/400/synchronizing-successive-opengl-compute-shader-invocations)
