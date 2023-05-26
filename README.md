@@ -246,6 +246,12 @@ scene.add(cube)
 
 <br />
 
+## Switch模拟器
+
+- [Yuzu官方论坛](https://yuzu-emu.org/entry/)
+
+<br />
+
 ## RGB与YUV相互转换的一般快速算法
 
 相关文档可参考Wikipedia上的——[YUV](http://en.wikipedia.org/wiki/YUV)
