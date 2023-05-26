@@ -199,6 +199,12 @@ scene.add(cube)
 - [OLED demura技术学习part1](https://blog.csdn.net/longmal/article/details/103850243)
 - [OLED demura技术学习part2](https://blog.csdn.net/longmal/article/details/103850408)
 - [AMOLED の 画质神器【Demura】](https://baijiahao.baidu.com/s?id=1700291087993044948)
+- [Vellum Cloth shelf tool](https://www.sidefx.com/docs/houdini/shelf/vellumcloth.html)
+- [VELLUM CLOTH: TIPS & TRICKS](https://www.sidefx.com/tutorials/vellum-cloth-tips-tricks/)
+- [nCloth](http://mottosso.com/ncloth-reference/)
+- [Understanding and Creating nCloth Simulations in Maya](http://mottosso.com/ncloth-reference/)
+- [MARVELOUS DESIGNER —— 更好、更快、更简单地制作3D服装！](https://marvelousdesigner.com/)
+- [clo3d —— 虚拟服装 改变世界](https://www.clo3d.com/zh/)
 
 <br />
 
@@ -270,7 +276,7 @@ YUV转RGB的算法描述可见以下图示：
 
 ## Pixel与Texel
 
-***pixel***这个单词来源于**pix**与**element**的缩写，表示**图像元素**，因此简称**像素**。
-同样，***texel***则是**texture**与**element**的缩写，表示**纹理元素**。
+***pixel*** 这个单词来源于 **pix** 与 **element** 的缩写，表示 **图像元素**，因此简称 **像素**。
+同样，***texel*** 则是 **texture** 与 **element** 的缩写，表示 **纹理元素**。
 
 
