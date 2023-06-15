@@ -19,6 +19,7 @@
 - [Opengl入门系列- FBO的渲染到纹理的用法](https://blog.csdn.net/zangle260/article/details/40430929)
 - [非常详细易懂的法线贴图(Normal Mapping)](https://blog.csdn.net/qq_26900671/article/details/79048727)
 - [凹凸映射（Bump Map）实现原理](https://blog.csdn.net/archielau/article/details/9124341)
+- [Shadow Map Antialiasing](https://zhuanlan.zhihu.com/p/518149734)
 - [OpenGL调试技巧汇总](https://blog.csdn.net/zjz520yy/article/details/83034140)
 - [Performance Tunning for Tile-Based Architecture Tile-Based架构下的性能调校](http://www.cnblogs.com/gameknife/p/3515714.html)
 - [FBO中多重采样抗锯齿（MSAA：MultiSampling Anti-Aliasing）](http://blog.csdn.net/pizi0475/article/details/7932915)
