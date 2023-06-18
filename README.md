@@ -80,8 +80,6 @@
 - [OpenGL之几何着色器(Geometry Shader)详解](https://blog.csdn.net/What_can_you_do/article/details/128255831)
 - [Core Language (GLSL)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))
 - [GLSL \#include](https://www.gamedev.net/forums/topic/316061-glsl-include/)
-- [OpenGL 4.2 Atomic Counter Demo: Rendering Order of Fragments](https://www.geeks3d.com/20120309/opengl-4-2-atomic-counter-demo-rendering-order-of-fragments/)
-- [OpenGL-Atomic Operations on Images（一）](https://zhuanlan.zhihu.com/p/84191004)
 - [浅谈OpenGL之DSA](https://www.cnblogs.com/hellobb/p/13943969.html)
 - OpenGL保存当前状态：[glPushAttrib function](https://learn.microsoft.com/en-us/windows/win32/opengl/glpushattrib)
 - [OpenGL三维纹理坐标](http://blog.sina.com.cn/s/blog_687960370101gyh8.html)
@@ -95,11 +93,14 @@
 - GLSL中，结构体必须至少含有一个成员声明。成员声明符可以包含精度限定符，但不能使用其他限定符，否则会导致编译时错误。GLSL中的结构体不支持位域（**bit fields**）。成员的类型必须是已经定义过的（不允许存在不完整类型）。如果成员声明包含了一个初始化器，那么会产生编译时错误。如果成员是一个数组，那么它必须具有一个指定的非零大小，且用于指定该大小的表达式必须是一个 **整数常量表达式**（[Constant Expressions](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.60.html#constant-expressions)）。
 - [Interface Block \(GLSL\)](https://www.khronos.org/opengl/wiki/Interface_Block_\(GLSL\))
 - [Atomic Counter](https://www.khronos.org/opengl/wiki/Atomic_Counter)
+- [OpenGL 4.2 Atomic Counter Demo: Rendering Order of Fragments](https://www.geeks3d.com/20120309/opengl-4-2-atomic-counter-demo-rendering-order-of-fragments/)
+- [OpenGL GLSL atomic counter in Vulkan](https://stackoverflow.com/questions/56682438/opengl-glsl-atomic-counter-in-vulkan)
 - [Buffer Texture](https://www.khronos.org/opengl/wiki/Buffer_Texture)
 - [samplerBuffer example needed](https://community.khronos.org/t/samplerbuffer-example-needed/63904)
 - [OpenGL Image Load Store Wiki](https://www.khronos.org/opengl/wiki/Image_Load_Store)
 - [Image Format](https://www.khronos.org/opengl/wiki/Image_Format)
 - [OpenGL 图像的加载和存储](https://blog.csdn.net/dayenglish/article/details/51439296)
+- [OpenGL-Atomic Operations on Images（一）](https://zhuanlan.zhihu.com/p/84191004)
 - [OpenGL图像\(image\)](https://blog.csdn.net/qq_16555407/article/details/84307374)
 - [difference between glTextureBarrier\(\) and glMemoryBarrier\(GL_TEXTURE_FETCH_BARRIER_BIT\)](https://stackoverflow.com/questions/37448712/difference-between-gltexturebarrier-and-glmemorybarriergl-texture-fetch-barri)
 - Khronos OpenGL官方文档中关于描述的 **`gbufferImage`** 类型，实际所对应的类型为：**`imageBuffer`**、**`iimageBuffer`** 和 **`uimageBuffer`**。该类型对应于Vulkan中具有 **`VK_BUFFER_USAGE_STORAGE_TEXEL_BUFFER_BIT`** usage 的 **`VkBuffer`**。同时在使用此 buffer 时需要结合 **`VkBufferView`** 一起使用。
