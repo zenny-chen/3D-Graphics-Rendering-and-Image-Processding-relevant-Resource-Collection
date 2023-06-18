@@ -208,6 +208,7 @@ scene.add(cube)
 - [Understanding and Creating nCloth Simulations in Maya](http://mottosso.com/ncloth-reference/)
 - [MARVELOUS DESIGNER —— 更好、更快、更简单地制作3D服装！](https://marvelousdesigner.com/)
 - [clo3d —— 虚拟服装 改变世界](https://www.clo3d.com/zh/)
+- [【卡通渲染】《原神》利用SDF图的面部阴影效果](https://www.bilibili.com/read/cv20040036/)
 
 <br />
 
