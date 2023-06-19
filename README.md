@@ -121,6 +121,7 @@ void main(void)
 }
 ```
 - [Precise Qualifier in GLSL and NVIDIA GeForce Cards](https://www.geeks3d.com/20120106/precise-qualifier-in-glsl-and-nvidia-geforce-cards/)
+- [How exactly is GLSL's "coherent" memory qualifier interpreted by GPU drivers for multi-pass rendering?](https://stackoverflow.com/questions/9731204/how-exactly-is-glsls-coherent-memory-qualifier-interpreted-by-gpu-drivers-for)
 - [Vertex Rendering](https://www.khronos.org/opengl/wiki/Vertex_Rendering)
 - [Early Fragment Test](https://www.khronos.org/opengl/wiki/Early_Fragment_Test)
 - [Primitive Restart and OpenGL Interoperability](https://www.codeproject.com/articles/201263/part-6-primitive-restart-and-opengl-interoperabili)
@@ -212,6 +213,37 @@ scene.add(cube)
 - [MARVELOUS DESIGNER —— 更好、更快、更简单地制作3D服装！](https://marvelousdesigner.com/)
 - [clo3d —— 虚拟服装 改变世界](https://www.clo3d.com/zh/)
 - [【卡通渲染】《原神》利用SDF图的面部阴影效果](https://www.bilibili.com/read/cv20040036/)
+
+<br />
+
+## invariant 限定符
+
+**`invariant`** 可以作用于顶点着色器输出的任何一个 **`out`** 或 **`varying`** 变量。
+
+当着色器被编译时，编译器会对其进行优化，这种优化操作可能引起指令重排序（instruction reordering），指令重排序可能引起的结果是当两个着色器进行相同的计算时无法保证得到相同的结果。
+
+例如，在两个顶点着色器中，变量 `gl_Position` 使用相同的表达式赋值，并且当着色程序运行时，在表达式中传入相等的变量值，则两个着色器中 `gl_Position` 的值无法保证相等，这是因为两个着色器是分别单独编译的。这将会引起 multi-pass 算法的几何不一致问题。
+通常情况下，不同着色器之间的这种值的差异是允许存在的。如果要避免这种差异，则可以将变量声明为 **`invariant`**，可以单独指定某个变量或进行全局设置。
+
+使用 **`invariant`** 限定符可以使输出的变量保持不变。**`invariant`** 限定符可以作用于之前已声明的变量使其具有不变性，也可以在声明变量时直接作为声明的一部分，可参考以下两段示例代码：
+```glsl
+varying mediump vec3 Color;
+// 使已存在的 color 变量不可变
+invariant Color;
+```
+或
+```glsl
+invariant varying mediump vec3 Color;
+```
+以上是仅有的使用 **`invariant`** 限定符情境。如果在声明时使用 **`invariant`** 限定符，则必须保证其放在存储限定符（**`varying`** 或 **`out`**）之前。
+
+只有以下变量可以声明为 **`invariant`**：
+
+- 由顶点着色器输出的内置的特殊变量
+- 由顶点着色器输出的 **`out`** 或 **`varying`** 变量
+- 向片段着色器输入的内置的特殊变量
+- 向片段着色器输入的 **`in`** 或 **`varying`** 变量
+- 由片段着色器输出的内置的特殊变量
 
 <br />
 
