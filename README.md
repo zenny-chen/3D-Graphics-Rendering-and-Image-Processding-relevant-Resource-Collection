@@ -22,6 +22,7 @@
 - [Shadow Map Antialiasing](https://zhuanlan.zhihu.com/p/518149734)
 - [OpenGL调试技巧汇总](https://blog.csdn.net/zjz520yy/article/details/83034140)
 - [Performance Tunning for Tile-Based Architecture Tile-Based架构下的性能调校](http://www.cnblogs.com/gameknife/p/3515714.html)
+- [4.4抗锯齿概论](https://zhuanlan.zhihu.com/p/487990470)
 - [FBO中多重采样抗锯齿（MSAA：MultiSampling Anti-Aliasing）](http://blog.csdn.net/pizi0475/article/details/7932915)
 - [WebGL2系列之多采样渲染缓冲对象](https://blog.csdn.net/netcy/article/details/95948811)
 - [颜色空间——Gamma与线性颜色空间](https://www.cnblogs.com/guanzz/p/7416821.html)
@@ -131,6 +132,8 @@ void main(void)
 - [android framebuffer和HAL以及显示系统](https://blog.csdn.net/wanglongwang201209/article/details/12616197)
 - [Android下Opengl ES实现单屏幕双眼显示](https://blog.csdn.net/u011371324/article/details/68946779)
 - [Bit blit](https://en.wikipedia.org/wiki/Bit_blit)
+- [延迟着色法](https://learnopengl-cn.readthedocs.io/zh/latest/05%20Advanced%20Lighting/08%20Deferred%20Shading/)（对 **G-buffer** 有详细介绍）
+- [Deferred shading](https://en.wikipedia.org/wiki/Deferred_shading)（含有对 **G-buffer** 的引用）
 - [What are the key differences between Open Shader Language and GLSL](https://stackoverflow.com/questions/46093694/what-are-the-key-differences-between-open-shader-language-and-glsl)
 - [Arm Frame Buffer Compression (AFBC)](https://developer.arm.com/architectures/media-architectures/afbc)
 - [计算机视觉的计算几何及Python实现](https://www.toutiao.com/a6637430623361303053)
