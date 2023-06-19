@@ -122,6 +122,7 @@ void main(void)
 ```
 - [Precise Qualifier in GLSL and NVIDIA GeForce Cards](https://www.geeks3d.com/20120106/precise-qualifier-in-glsl-and-nvidia-geforce-cards/)
 - [How exactly is GLSL's "coherent" memory qualifier interpreted by GPU drivers for multi-pass rendering?](https://stackoverflow.com/questions/9731204/how-exactly-is-glsls-coherent-memory-qualifier-interpreted-by-gpu-drivers-for)
+- [GLSL: about coherent qualifier](https://stackoverflow.com/questions/56340333/glsl-about-coherent-qualifier)（内含 **`atomicAdd`** 的使用）
 - [Vertex Rendering](https://www.khronos.org/opengl/wiki/Vertex_Rendering)
 - [Early Fragment Test](https://www.khronos.org/opengl/wiki/Early_Fragment_Test)
 - [Primitive Restart and OpenGL Interoperability](https://www.codeproject.com/articles/201263/part-6-primitive-restart-and-opengl-interoperabili)
