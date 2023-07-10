@@ -96,6 +96,7 @@
 - [Atomic Counter](https://www.khronos.org/opengl/wiki/Atomic_Counter)
 - [OpenGL 4.2 Atomic Counter Demo: Rendering Order of Fragments](https://www.geeks3d.com/20120309/opengl-4-2-atomic-counter-demo-rendering-order-of-fragments/)
 - [OpenGL GLSL atomic counter in Vulkan](https://stackoverflow.com/questions/56682438/opengl-glsl-atomic-counter-in-vulkan)
+- [Rectangle Texture](https://www.khronos.org/opengl/wiki/Rectangle_Texture)
 - [Buffer Texture](https://www.khronos.org/opengl/wiki/Buffer_Texture)
 - [samplerBuffer example needed](https://community.khronos.org/t/samplerbuffer-example-needed/63904)
 - [OpenGL Image Load Store Wiki](https://www.khronos.org/opengl/wiki/Image_Load_Store)
