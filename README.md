@@ -21,6 +21,8 @@
 - [凹凸映射（Bump Map）实现原理](https://blog.csdn.net/archielau/article/details/9124341)
 - [Shadow Map Antialiasing](https://zhuanlan.zhihu.com/p/518149734)
 - [OpenGL.Shader：9-学习光照-法线贴图（计算TBN矩阵）](https://blog.csdn.net/a360940265a/article/details/94719015)
+- [游戏画面设置中的“各向异性过滤”是做什么的？](https://www.zhihu.com/question/411035839)
+- [图像处理基础（三）各向异性滤波](https://zhuanlan.zhihu.com/p/443182644)
 - [OpenGL调试技巧汇总](https://blog.csdn.net/zjz520yy/article/details/83034140)
 - [Performance Tunning for Tile-Based Architecture Tile-Based架构下的性能调校](http://www.cnblogs.com/gameknife/p/3515714.html)
 - [4.4抗锯齿概论](https://zhuanlan.zhihu.com/p/487990470)
