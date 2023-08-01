@@ -139,6 +139,10 @@ void main(void)
 - [android framebuffer和HAL以及显示系统](https://blog.csdn.net/wanglongwang201209/article/details/12616197)
 - [Android下Opengl ES实现单屏幕双眼显示](https://blog.csdn.net/u011371324/article/details/68946779)
 - [Bit blit](https://en.wikipedia.org/wiki/Bit_blit)
+- [Face Culling](https://www.khronos.org/opengl/wiki/Face_Culling)
+- [Vertex Post-Processing](https://www.khronos.org/opengl/wiki/Vertex_Post-Processing)
+- [Clipping FAQ](https://www.khronos.org/opengl/wiki/Clipping_FAQ)
+- [Clipping \(OpenGL\)](https://learn.microsoft.com/en-us/windows/win32/opengl/clipping)
 - [延迟着色法](https://learnopengl-cn.readthedocs.io/zh/latest/05%20Advanced%20Lighting/08%20Deferred%20Shading/)（对 **G-buffer** 有详细介绍）
 - [Deferred shading](https://en.wikipedia.org/wiki/Deferred_shading)（含有对 **G-buffer** 的引用）
 - [What are the key differences between Open Shader Language and GLSL](https://stackoverflow.com/questions/46093694/what-are-the-key-differences-between-open-shader-language-and-glsl)
