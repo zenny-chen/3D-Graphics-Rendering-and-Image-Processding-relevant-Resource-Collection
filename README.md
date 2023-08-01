@@ -9,6 +9,7 @@
 - [handyTOOL的简书OpenGL ES文集](https://www.jianshu.com/nb/11846847)
 - [梁老师的博客园](https://www.cnblogs.com/len3d/)
 - [Morgan McGuire](https://research.nvidia.com/person/morgan-mcguire?tdsourcetag=s_pcqq_aiomsg)
+- [Matt Oztalay](https://linktr.ee/epicmattoztalay)
 - [What exactly is a softlock?](https://gaming.stackexchange.com/questions/357095/what-exactly-is-a-softlock)
 - [Advanced Graphics Programming Techniques](https://www.opengl.org/archives/resources/code/samples/sig99/advanced99/notes/notes.html)
 - [GPU渲染管线之旅（GPU渲染管线中的硬件实现）](https://www.zhihu.com/column/c_1265245746099941376)
