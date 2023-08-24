@@ -52,7 +52,7 @@
 这里需要注意的是，由于iOS中的图形流水线机制是将从片段着色器输出的像素颜色值，在送到颜色混合固定功能单元之前就已经预先乘了alpha值。这种情况下需要使用`glBlendFunc(GL_ONE, GL_ONE_MINUS_SRC_ALPHA)`来做颜色混合。
 - [opengl es2 premultiplied vs straight alpha + blending](https://stackoverflow.com/questions/19674740/opengl-es2-premultiplied-vs-straight-alpha-blending)
 - [Order-Independent Transparency](https://www.cnblogs.com/mavaL/p/3525890.html)
-- [OpenGL Dual Source Blending](https://www.khronos.org/opengl/wiki/Blending)
+- [OpenGL Dual Source Blending](https://www.khronos.org/opengl/wiki/Blending#Dual_Source_Blending)
 - [OpenGL ES 2.0+ 如何设置点的大小](https://gamedev.stackexchange.com/questions/11095/opengl-es-2-0-point-sprites-size)
 - [Point Sprites](http://www.informit.com/articles/article.aspx?p=770639&seqNum=7)
 - [Chapter 7. Sprites and Text](https://www.oreilly.com/library/view/iphone-3d-programming/9781449388133/ch07.html)
