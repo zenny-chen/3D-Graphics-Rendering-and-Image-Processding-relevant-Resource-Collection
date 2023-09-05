@@ -59,6 +59,7 @@
 - [Point Sprites](http://www.informit.com/articles/article.aspx?p=770639&seqNum=7)
 - [Chapter 7. Sprites and Text](https://www.oreilly.com/library/view/iphone-3d-programming/9781449388133/ch07.html)
 - [OpenGL Interpolation Qualifiers (GLSL)](https://www.geeks3d.com/20130514/opengl-interpolation-qualifiers-glsl-tutorial/)
+- [OpenGL 学习笔记之 VBO VAO EBO 概念和使用方法总结](https://www.cnblogs.com/im18620660608/p/17210544.html)
 - [gluLookAt](https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml/gluLookAt.xml)
 - [GluLookAt code](https://www.khronos.org/opengl/wiki/GluLookAt_code)
 - [从零开始的Vulkan](https://www.zhihu.com/column/c_1542671286655873024)
