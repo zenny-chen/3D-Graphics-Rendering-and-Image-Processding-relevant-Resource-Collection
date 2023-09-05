@@ -66,6 +66,7 @@
 - [Render graphs and Vulkan — a deep dive](http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
 - [Vulkan坐标系](https://zhuanlan.zhihu.com/p/97496535)
 - [Vulkan 右手坐标系见解](https://zhuanlan.zhihu.com/p/365830760)
+- [Managing bindless descriptors in Vulkan](https://dev.to/gasim/implementing-bindless-design-in-vulkan-34no)
 - [Vulkan Dynamic State](https://zhuanlan.zhihu.com/p/338237434)
 - [How to use a vulkan sampler with unnormalized texture-coordinates?](https://stackoverflow.com/questions/65790303/how-to-use-a-vulkan-sampler-with-unnormalized-texture-coordinates-without-trig)
 - [Vulkan查询支持哪些图像形式的VkFormat——vkGetPhysicalDeviceFormatProperties](https://registry.khronos.org/vulkan/specs/1.3-extensions/man/html/vkGetPhysicalDeviceFormatProperties.html)
