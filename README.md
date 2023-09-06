@@ -11,6 +11,7 @@
 - [Morgan McGuire](https://research.nvidia.com/person/morgan-mcguire?tdsourcetag=s_pcqq_aiomsg)
 - [Matt Oztalay](https://linktr.ee/epicmattoztalay)
 - [What exactly is a softlock?](https://gaming.stackexchange.com/questions/357095/what-exactly-is-a-softlock)
+- [https://learnopengl.com/](https://learnopengl.com/)
 - [Advanced Graphics Programming Techniques](https://www.opengl.org/archives/resources/code/samples/sig99/advanced99/notes/notes.html)
 - [GPU渲染管线之旅（GPU渲染管线中的硬件实现）](https://www.zhihu.com/column/c_1265245746099941376)
 - [实时渲染管线:（三）逻辑管线](https://zhuanlan.zhihu.com/p/440593877)
