@@ -74,6 +74,7 @@
 - [Vulkan查询支持哪些图像形式的VkFormat——vkGetPhysicalDeviceFormatProperties](https://registry.khronos.org/vulkan/specs/1.3-extensions/man/html/vkGetPhysicalDeviceFormatProperties.html)
 - [Vulkan查询支持哪些纹理采样格式的VkFormat——vkGetPhysicalDeviceImageFormatProperties](https://registry.khronos.org/vulkan/specs/1.3-extensions/man/html/vkGetPhysicalDeviceImageFormatProperties.html)
 - [Vulkan中的同步与缓存控制](https://zhuanlan.zhihu.com/p/161619652)
+- [Vulkan 同步机制 Fence Semaphore](https://zhuanlan.zhihu.com/p/380719229)
 - [\[译\]Vulkan教程(23)暂存buffer](https://www.cnblogs.com/bitzhuwei/p/Vulkan-Tutoria-23-Staging-buffer.html)
 - [How to use Vulkan Timestamp Queries.](https://nikitablack.github.io/post/how_to_use_vulkan_timestamp_queries/)
 - [Vulkan Mobile Best Practices - Management of Command Buffers and Multi-Threaded Recording](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/vulkan-mobile-best-practices-and-management)
