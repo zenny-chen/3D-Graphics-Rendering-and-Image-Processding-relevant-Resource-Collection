@@ -40,6 +40,7 @@
 - [移动平台游戏的性能优化](http://www.csdn.net/article/2015-05-27/2824785)
 - [Performance Tunning for Tile-Based Architecture Tile-Based架构下的性能调校](http://www.cnblogs.com/gameknife/p/3515714.html)
 - [GL_EXT_shader_pixel_local_storage](https://registry.khronos.org/OpenGL/extensions/EXT/EXT_shader_pixel_local_storage.txt)
+- [移动端下PLS（Pixel Local Storage）减少带宽开销的原理](https://blog.csdn.net/CrazyEngine/article/details/120310567)
 - [数字图像处理 傅里叶变换](http://blog.csdn.net/zkp0601/article/details/41295283)
 - [轻量级隐写分析模型](https://www.toutiao.com/i6895918997670363651/)
 - [D3D渲染技术之纹理](https://blog.csdn.net/jxw167/article/details/82824741)
