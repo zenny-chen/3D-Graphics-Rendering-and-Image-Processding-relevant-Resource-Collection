@@ -66,6 +66,7 @@
 - [OpenGL ES之uniform和varying](https://zhuanlan.zhihu.com/p/103687720)
 - [gluLookAt](https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml/gluLookAt.xml)
 - [GluLookAt code](https://www.khronos.org/opengl/wiki/GluLookAt_code)
+- [D3D RHW的理解](https://blog.csdn.net/mengzhisuoliu/article/details/78937498)
 - [从零开始的Vulkan](https://www.zhihu.com/column/c_1542671286655873024)
 - [一起学Vulkan图形开发](https://www.zhihu.com/column/chenyong2vulkan)
 - [Render graphs and Vulkan — a deep dive](http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
