@@ -52,6 +52,8 @@ sample2D( depth_buffer_last, (pixel_coordinates * inverse(MPV_current) * MPV_las
 - [轻量级隐写分析模型](https://www.toutiao.com/i6895918997670363651/)
 - [Shader resource view \(SRV\) and Unordered Access view \(UAV\)](https://learn.microsoft.com/en-us/windows/uwp/graphics-concepts/shader-resource-view--srv-)
 - [D3D渲染技术之纹理](https://blog.csdn.net/jxw167/article/details/82824741)
+- [Transforms \(Direct3D 9\)](https://learn.microsoft.com/en-us/windows/win32/direct3d9/transforms)
+- [The Direct3D Transformation Pipeline](https://learn.microsoft.com/en-us/windows/win32/dxtecharts/the-direct3d-transformation-pipeline)
 
 Direct3D 12 resources in HLSL are bound to virtual registers within logical register spaces:
 
