@@ -18,7 +18,8 @@
 - [Life of a triangle - NVIDIA's logical pipeline](https://developer.nvidia.com/content/life-triangle-nvidias-logical-pipeline)
 - [OpenGL -- 屏幕成像和渲染原理解析](https://www.toutiao.com/article/7153963074285322791/)
 - [图形学:名词解释](https://blog.csdn.net/hellotruth/article/details/40889701)
-- [计算机图形学里面所说的 **片元** 是什么](https://zhidao.baidu.com/question/1367025072868259579.html)
+- [计算机图形学里面所说的 **片元** 是什么](https://zhidao.baidu.com/question/1367025072868259579.html)（**片元** 就是 **片段**，即：***fragment***）
+- [片段与像素的区别](https://www.cnblogs.com/millionsmultiplication/p/10766778.html)
 - [完美的视图旋转算法](https://www.cnblogs.com/len3d/p/5530401.html)
 - [OpenGL缓冲区对象之UBO](https://blog.csdn.net/csxiaoshui/article/details/32101977)
 - [Opengl入门系列- FBO的渲染到纹理的用法](https://blog.csdn.net/zangle260/article/details/40430929)
