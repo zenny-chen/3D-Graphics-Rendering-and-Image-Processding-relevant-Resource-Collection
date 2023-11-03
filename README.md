@@ -35,6 +35,7 @@
 - [4.4抗锯齿概论](https://zhuanlan.zhihu.com/p/487990470)
 - [FBO中多重采样抗锯齿（MSAA：MultiSampling Anti-Aliasing）](http://blog.csdn.net/pizi0475/article/details/7932915)
 - [WebGL2系列之多采样渲染缓冲对象](https://blog.csdn.net/netcy/article/details/95948811)
+- [抗锯齿taa和fxaa区别？](https://baijiahao.baidu.com/s?id=1770505625550467551)
 - 上一帧的深度投影到当前帧：
 ```glsl
 sample2D( depth_buffer_last, (pixel_coordinates * inverse(MPV_current) * MPV_last).xy )
@@ -243,6 +244,8 @@ scene.add(cube)
 - [图形引擎实战：HDRP移动版高清渲染管线改造](https://zhuanlan.zhihu.com/p/567981404)
 - [1.HDRP入门](https://zhuanlan.zhihu.com/p/458453634)
 - [FSR、DLSS谁更靠谱？RX 7900 XT VS. RTX 4080对比测试](https://mp.weixin.qq.com/s?__biz=MzU2MTU4MTc1Ng==&mid=2247800701&idx=2&sn=5b691923555fe8c742fb7de6f1cab186)
+- [画质提升显著！AMD FSR2.0技术解析和游戏实测](https://zhuanlan.zhihu.com/p/515270792)
+- [AMD FSR 3 Now Available](https://community.amd.com/t5/gaming/amd-fsr-3-now-available/ba-p/634265)
 - [SPH 3D流体模拟及其卡通化渲染](https://zhuanlan.zhihu.com/p/95102715)
 - [OpenGL HDR](https://learnopengl.com/Advanced-Lighting/HDR)
 - [Phong 光照模型（镜面反射）](https://www.cnblogs.com/jqm304775992/p/4890634.html)
