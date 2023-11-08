@@ -36,6 +36,7 @@
 - [4.4抗锯齿概论](https://zhuanlan.zhihu.com/p/487990470)
 - [FBO中多重采样抗锯齿（MSAA：MultiSampling Anti-Aliasing）](http://blog.csdn.net/pizi0475/article/details/7932915)
 - [WebGL2系列之多采样渲染缓冲对象](https://blog.csdn.net/netcy/article/details/95948811)
+- [Another New Anti-Aliasing Mode: Enhanced Quality AA](https://www.anandtech.com/show/4061/amds-radeon-hd-6970-radeon-hd-6950/10)
 - [抗锯齿taa和fxaa区别？](https://baijiahao.baidu.com/s?id=1770505625550467551)
 - 上一帧的深度投影到当前帧：
 ```glsl
@@ -138,6 +139,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [Vertex Rendering](https://www.khronos.org/opengl/wiki/Vertex_Rendering)
 - [Primitive](https://www.khronos.org/opengl/wiki/Primitive)
 - [Shader Basics - Fragment Shader](https://shader-tutorial.dev/basics/fragment-shader/)
+- [Rasterization Rules](https://learn.microsoft.com/en-us/windows/win32/direct3d11/d3d10-graphics-programming-guide-rasterizer-stage-rules)
 - [Rasterization: a Practical Implementation](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/perspective-correct-interpolation-vertex-attributes.html)
 - [Rectangle Texture](https://www.khronos.org/opengl/wiki/Rectangle_Texture)
 - [Buffer Texture](https://www.khronos.org/opengl/wiki/Buffer_Texture)
