@@ -84,6 +84,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [Point Sprites](http://www.informit.com/articles/article.aspx?p=770639&seqNum=7)
 - [Chapter 7. Sprites and Text](https://www.oreilly.com/library/view/iphone-3d-programming/9781449388133/ch07.html)
 - [OpenGL Interpolation Qualifiers (GLSL)](https://www.geeks3d.com/20130514/opengl-interpolation-qualifiers-glsl-tutorial/)
+- [DX10/11/12、OpenGL4.0、Vulkan开启Flat shading着色模式](https://blog.csdn.net/qq_38327353/article/details/115709568)
 - [OpenGL 学习笔记之 VBO VAO EBO 概念和使用方法总结](https://www.cnblogs.com/im18620660608/p/17210544.html)
 - [OpenGL ES之uniform和varying](https://zhuanlan.zhihu.com/p/103687720)
 - [gluLookAt](https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml/gluLookAt.xml)
