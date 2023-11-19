@@ -183,7 +183,6 @@ void main(void)
 - [Variable Rate Shading](https://microsoft.github.io/DirectX-Specs/d3d/VariableRateShading.html)
 - [Variable-rate shading \(VRS\)](https://learn.microsoft.com/en-us/windows/win32/direct3d12/vrs)
 - [VRS （Variable-rate shading） 技术介绍&移动端接入现状调研](https://zhuanlan.zhihu.com/p/628429688)
-- [Variable-rate shading \(VRS\)](https://learn.microsoft.com/en-us/windows/win32/direct3d12/vrs)
 - [Fragment Shading Rate](https://docs.vulkan.org/samples/latest/samples/extensions/fragment_shading_rate_dynamic/README.html)
 - [gl_SampleMask](https://registry.khronos.org/OpenGL-Refpages/gl4/html/gl_SampleMask.xhtml)（HLSL **`SV_Coverage`**）
 - [EvaluateAttributeSnapped function](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/evaluateattributesnapped)
