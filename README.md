@@ -80,6 +80,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [Vulkan spec 28.4. Multisampling](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/vkspec.html#primsrast-multisampling)
 - [Vulkan MSAA (Multisample anti-aliasing)](https://docs.vulkan.org/samples/latest/samples/performance/msaa/README.html)
 - [Vulkan MSAA](https://zhuanlan.zhihu.com/p/661448130)
+- [游戏引擎随笔 0x15：现代图形 API 的 MSAA](https://zhuanlan.zhihu.com/p/263101710)
 - 这篇文章是关于颜色混合半透明效果讲解得比较透彻的：[GLSL Programming/GLUT/Transparency](https://en.wikibooks.org/wiki/GLSL_Programming/GLUT/Transparency)
 这里需要注意的是，由于iOS中的图形流水线机制是将从片段着色器输出的像素颜色值，在送到颜色混合固定功能单元之前就已经预先乘了alpha值。这种情况下需要使用`glBlendFunc(GL_ONE, GL_ONE_MINUS_SRC_ALPHA)`来做颜色混合。
 - [opengl es2 premultiplied vs straight alpha + blending](https://stackoverflow.com/questions/19674740/opengl-es2-premultiplied-vs-straight-alpha-blending)
