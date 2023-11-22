@@ -190,6 +190,7 @@ void main(void)
 - [VRS （Variable-rate shading） 技术介绍&移动端接入现状调研](https://zhuanlan.zhihu.com/p/628429688)
 - [Fragment Shading Rate](https://docs.vulkan.org/samples/latest/samples/extensions/fragment_shading_rate_dynamic/README.html)
 - [gl_SampleMask](https://registry.khronos.org/OpenGL-Refpages/gl4/html/gl_SampleMask.xhtml)（HLSL **`SV_Coverage`**）
+- [Direct3D 11.3 Functional Specification -- 16.5 Pull Model Attribute Evaluation](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#16.5%20Pull%20Model%20Attribute%20Evaluation)
 - [EvaluateAttributeSnapped function](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/evaluateattributesnapped)
 - [EvaluateAttributeSnapped function](https://github.com/MicrosoftDocs/win32/blob/docs/desktop-src/direct3dhlsl/evaluateattributesnapped.md)
 - [Target Independent Rasterization](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#TIR)
