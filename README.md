@@ -73,8 +73,6 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 
 详情可见：[VK_FORMAT_R8G8B8A8_[U/S]SCALED vs VK_FORMAT_A8B8G8R8_[U/S]SCALED_PACK32 ?](https://community.khronos.org/t/vk-format-r8g8b8a8-u-s-scaled-vs-vk-format-a8b8g8r8-u-s-scaled-pack32/6769)
 
-- [Learning DirectX 12 – Lesson 4 – Textures](https://www.3dgep.com/learning-directx-12-4/)
-- [DirectXTK12/RenderTexture -- This provides a helper class for managing an offscreen render target.](https://github.com/microsoft/DirectXTK12/wiki/RenderTexture)
 - [Tutorial 12 : OpenGL Extensions](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-12-opengl-extensions/)
 - [OpenGL ES3使用MSAA（多重采样抗锯齿）的方法](https://www.cnblogs.com/zenny-chen/p/5058575.html)
 - [DirectX 12小技巧-启用MSAA](https://zhuanlan.zhihu.com/p/460439298)
@@ -139,6 +137,8 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [Render to half float texture](https://stackoverflow.com/questions/23253497/render-to-half-float-texture)
 - [Read texture data](https://riptutorial.com/opengl/example/23514/read-texture-data)（OpenGL使用：**`glGetTexImage`**）
 - 利用GLU工具库对任意原始图像数据进行缩放：[gluScaleImage function](https://learn.microsoft.com/en-us/windows/win32/opengl/gluscaleimage)
+- [Learning DirectX 12 – Lesson 4 – Textures](https://www.3dgep.com/learning-directx-12-4/)
+- [DirectXTK12/RenderTexture -- This provides a helper class for managing an offscreen render target.](https://github.com/microsoft/DirectXTK12/wiki/RenderTexture)
 - [Data Type \(GLSL\)](https://www.khronos.org/opengl/wiki/Data_Type_\(GLSL\))（其中包含了结构体类型 **`struct`**）
 - GLSL中，结构体必须至少含有一个成员声明。成员声明符可以包含精度限定符，但不能使用其他限定符，否则会导致编译时错误。GLSL中的结构体不支持位域（**bit fields**）。成员的类型必须是已经定义过的（不允许存在不完整类型）。如果成员声明包含了一个初始化器，那么会产生编译时错误。如果成员是一个数组，那么它必须具有一个指定的非零大小，且用于指定该大小的表达式必须是一个 **整数常量表达式**（[Constant Expressions](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.60.html#constant-expressions)）。
 - [Interface Block \(GLSL\)](https://www.khronos.org/opengl/wiki/Interface_Block_\(GLSL\))
