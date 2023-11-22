@@ -73,6 +73,8 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 
 详情可见：[VK_FORMAT_R8G8B8A8_[U/S]SCALED vs VK_FORMAT_A8B8G8R8_[U/S]SCALED_PACK32 ?](https://community.khronos.org/t/vk-format-r8g8b8a8-u-s-scaled-vs-vk-format-a8b8g8r8-u-s-scaled-pack32/6769)
 
+- [Learning DirectX 12 – Lesson 4 – Textures](https://www.3dgep.com/learning-directx-12-4/)
+- [DirectXTK12/RenderTexture -- This provides a helper class for managing an offscreen render target.](https://github.com/microsoft/DirectXTK12/wiki/RenderTexture)
 - [Tutorial 12 : OpenGL Extensions](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-12-opengl-extensions/)
 - [OpenGL ES3使用MSAA（多重采样抗锯齿）的方法](https://www.cnblogs.com/zenny-chen/p/5058575.html)
 - [DirectX 12小技巧-启用MSAA](https://zhuanlan.zhihu.com/p/460439298)
