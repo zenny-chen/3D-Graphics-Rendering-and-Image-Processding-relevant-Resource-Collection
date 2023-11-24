@@ -100,6 +100,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [从零开始的Vulkan](https://www.zhihu.com/column/c_1542671286655873024)
 - [一起学Vulkan图形开发](https://www.zhihu.com/column/chenyong2vulkan)
 - [Render graphs and Vulkan — a deep dive](http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
+- [OpenGL 坐标系统详解](https://zhuanlan.zhihu.com/p/665555142)
 - [Vulkan坐标系](https://zhuanlan.zhihu.com/p/97496535)（NDC——Normalized Device Coordinates，标准化设备坐标）
 - [Vulkan 右手坐标系见解](https://zhuanlan.zhihu.com/p/365830760)
 - [Managing bindless descriptors in Vulkan](https://dev.to/gasim/implementing-bindless-design-in-vulkan-34no)
