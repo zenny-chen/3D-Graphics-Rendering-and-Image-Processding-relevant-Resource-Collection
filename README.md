@@ -92,6 +92,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [Chapter 7. Sprites and Text](https://www.oreilly.com/library/view/iphone-3d-programming/9781449388133/ch07.html)
 - [OpenGL Interpolation Qualifiers (GLSL)](https://www.geeks3d.com/20130514/opengl-interpolation-qualifiers-glsl-tutorial/)
 - [DX10/11/12、OpenGL4.0、Vulkan开启Flat shading着色模式](https://blog.csdn.net/qq_38327353/article/details/115709568)
+- [Interpolation Modifiers Introduced in Shader Model 4](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl-struct)
 - [Gouraud shading与Phong shading的区别（原理概念+shader代码）](https://zhuanlan.zhihu.com/p/411933220)
 - [OpenGL 学习笔记之 VBO VAO EBO 概念和使用方法总结](https://www.cnblogs.com/im18620660608/p/17210544.html)
 - [OpenGL ES之uniform和varying](https://zhuanlan.zhihu.com/p/103687720)
