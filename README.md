@@ -155,6 +155,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [Rasterization Rules](https://learn.microsoft.com/en-us/windows/win32/direct3d11/d3d10-graphics-programming-guide-rasterizer-stage-rules)
 - [Rasterization: a Practical Implementation](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/perspective-correct-interpolation-vertex-attributes.html)
 - [Direct3D 11 -- Configuring Depth-Stencil Functionality](https://learn.microsoft.com/en-us/windows/win32/direct3d11/d3d10-graphics-programming-guide-depth-stencil)
+- [深度测试（Depth Test）概念](https://zhuanlan.zhihu.com/p/593562090)
 - [Issue with reading depth buffer after depth render pass](https://community.khronos.org/t/issue-with-reading-depth-buffer-after-depth-render-pass/107442)
 - [How updating a depth buffer works in GPU?](https://computergraphics.stackexchange.com/questions/1954/how-updating-a-depth-buffer-works-in-gpu)
 - [Rectangle Texture](https://www.khronos.org/opengl/wiki/Rectangle_Texture)
