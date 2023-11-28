@@ -154,6 +154,9 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [Shader Basics - Fragment Shader](https://shader-tutorial.dev/basics/fragment-shader/)
 - [Rasterization Rules](https://learn.microsoft.com/en-us/windows/win32/direct3d11/d3d10-graphics-programming-guide-rasterizer-stage-rules)
 - [Rasterization: a Practical Implementation](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/perspective-correct-interpolation-vertex-attributes.html)
+- [Direct3D 11 -- Configuring Depth-Stencil Functionality](https://learn.microsoft.com/en-us/windows/win32/direct3d11/d3d10-graphics-programming-guide-depth-stencil)
+- [Issue with reading depth buffer after depth render pass](https://community.khronos.org/t/issue-with-reading-depth-buffer-after-depth-render-pass/107442)
+- [How updating a depth buffer works in GPU?](https://computergraphics.stackexchange.com/questions/1954/how-updating-a-depth-buffer-works-in-gpu)
 - [Rectangle Texture](https://www.khronos.org/opengl/wiki/Rectangle_Texture)
 - [Buffer Texture](https://www.khronos.org/opengl/wiki/Buffer_Texture)
 - [samplerBuffer example needed](https://community.khronos.org/t/samplerbuffer-example-needed/63904)
@@ -214,8 +217,6 @@ void main(void)
 - [延迟着色和Forward+在移动端各有什么利弊？](https://www.zhihu.com/question/487242931)
 - [Deferred shading](https://en.wikipedia.org/wiki/Deferred_shading)（含有对 **G-buffer** 的引用）
 - [Deferred shading on mobile: An API overview](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/deferred-shading-on-mobile)
-- [Issue with reading depth buffer after depth render pass](https://community.khronos.org/t/issue-with-reading-depth-buffer-after-depth-render-pass/107442)
-- [How updating a depth buffer works in GPU?](https://computergraphics.stackexchange.com/questions/1954/how-updating-a-depth-buffer-works-in-gpu)
 - [\[主程必看\]移动设备GPU架构知识汇总！](https://m.sohu.com/a/408708498_667928)
 - [[游戏中的图形学实时渲染技术] Part1 实时阴影技术](https://zhuanlan.zhihu.com/p/640873640)
 - [一种软阴影的实现方法](https://blog.csdn.net/kenkao/article/details/6717247)
@@ -349,6 +350,20 @@ invariant varying mediump vec3 Color;
 - 向片段着色器输入的内置的特殊变量
 - 向片段着色器输入的 **`in`** 或 **`varying`** 变量
 - 由片段着色器输出的内置的特殊变量
+
+<br />
+
+## Direct3D ***extrapolation***
+
+The number of sample locations is dependent on the multisample mode. Vertex attributes are interpolated at pixel centers, since this is where the pixel shader is invoked (this becomes ***extrapolation*** if the center is not covered). Attributes can be flagged in the pixel shader to be centroid sampled, which causes non-covered pixels to interpolate the attribute at intersection of the pixel's area and the primitive. A pixel shader runs for each 2x2 pixel area to support derivative calculations (which use x and y deltas). This means that shader invocations occur more than is shown to fill out the minimum 2x2 quanta (which is independent of multisampling). The shader result is written out for each covered sample that passes the per-sample depth-stencil test.
+
+When a sample-frequency [interpolation mode](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#InterpolationModes) is not needed on an attribute, pixel-frequency interpolation-modes such as linear evaluate at the pixel center. However with sample count > 1 on the RenderTarget, attributes could be interpolated at the pixel center even though the center of the pixel may not be covered by the primitive, in which case interpolation becomes "***extrapolation***". This "***extrapolation***" can be undesirable in some cases, so short of going to sample-frequency interpolation, a compromise is the centroid interpolation mode.
+
+Centroid behaves exactly as follows:
+
+- (1) If all samples in the primitive are covered, the attribute is evaluated at the pixel center (even if the sample pattern does not happen to have a sample location there).
+- (2) Else the attribute is evaluated at the first covered sample, in increasing order of sample index, where sample coverage is after ANDing the coverage with the SampleMask Rasterizer State.
+- (3) If no samples are covered, such as on helper pixels executed off the bounds of a primitive to fill out 2x2 pixel stamps, the attribute is evaluated as follows: If the SampleMask Rasterizer state is a subset of the samples in the pixel, then the first sample covered by the SampleMask Rasterizer State is the evaluation point. Otherwise (full SampleMask), the pixel center is the evaluation point.
 
 <br />
 
