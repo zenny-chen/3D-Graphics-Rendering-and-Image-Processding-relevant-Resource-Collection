@@ -107,6 +107,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [OpenGL 坐标系统详解](https://zhuanlan.zhihu.com/p/665555142)
 - [Vulkan坐标系](https://zhuanlan.zhihu.com/p/97496535)（NDC——Normalized Device Coordinates，标准化设备坐标）
 - [Vulkan 右手坐标系见解](https://zhuanlan.zhihu.com/p/365830760)
+- [Coordinate Systems \(Direct3D 9\)](https://learn.microsoft.com/en-us/windows/win32/direct3d9/coordinate-systems)
 - [Managing bindless descriptors in Vulkan](https://dev.to/gasim/implementing-bindless-design-in-vulkan-34no)
 - [Vulkan Dynamic State](https://zhuanlan.zhihu.com/p/338237434)
 - [How to use a vulkan sampler with unnormalized texture-coordinates?](https://stackoverflow.com/questions/65790303/how-to-use-a-vulkan-sampler-with-unnormalized-texture-coordinates-without-trig)
