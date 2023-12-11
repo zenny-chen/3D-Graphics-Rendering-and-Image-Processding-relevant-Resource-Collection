@@ -325,6 +325,7 @@ scene.add(cube)
 - [『Hi-Fi RUSH』開発事例 グラフィックスと最適化紹介【UNREAL FEST 2023 TOKYO】](https://www.docswell.com/s/EpicGamesJapan/54QENW-UE_UF23T_TangoGameworks_1)
 - [Reality World 开源技术分享会](https://zhuanlan.zhihu.com/p/660240029)
 - [SIGGRAPH 2016: Talks](https://history.siggraph.org/learning-overview/siggraph-2016-talks/)
+- [3D Gaussian Splatting国内落地，元象3D拍摄与混编插件免费开放](https://zhuanlan.zhihu.com/p/669399970)
 
 <br />
 
