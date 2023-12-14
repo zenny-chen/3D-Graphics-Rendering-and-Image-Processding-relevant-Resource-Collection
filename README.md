@@ -413,19 +413,6 @@ In graph theory, vertex splitting is also a problem where the objective is to de
 
 <br />
 
-## PS2模拟器相关技术
-
-- [Alpha Testing in the GS world](https://pcsx2.net/developer-blog/279-alpha-testing-gs-world.html)
-- [Setting up Windows version](https://wiki.pcsx2.net/Setting_up_Windows_version)
-
-<br />
-
-## Switch模拟器
-
-- [Yuzu官方论坛](https://yuzu-emu.org/entry/)
-
-<br />
-
 ## RGB与YUV相互转换的一般快速算法
 
 相关文档可参考Wikipedia上的——[YUV](http://en.wikipedia.org/wiki/YUV)
@@ -439,6 +426,19 @@ YUV转RGB的算法描述可见以下图示：
 ![yuv2rgb](yuv2rgb.png)
 
 另外，在 http://en.wikipedia.org/wiki/Talk:YUV 中有一段对YUV转RGB的用C语言描述的近似算法。
+
+<br />
+
+## PS2模拟器相关技术
+
+- [Alpha Testing in the GS world](https://pcsx2.net/developer-blog/279-alpha-testing-gs-world.html)
+- [Setting up Windows version](https://wiki.pcsx2.net/Setting_up_Windows_version)
+
+<br />
+
+## Switch模拟器
+
+- [Yuzu官方论坛](https://yuzu-emu.org/entry/)
 
 <br />
 
