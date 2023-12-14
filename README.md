@@ -405,6 +405,14 @@ Centroid behaves exactly as follows:
 
 <br />
 
+## Vertex Splitting
+
+Vertex splitting is a technique used in computer graphics to handle texture seams. If a single vertex location on a mesh needs two different texture coordinates, then that vertex location gets split into two vertices to send to the GPU - both with the same position, but one with texture coordinate A and one with texture coordinate B. -- [What does 'vertex splitting' mean?](https://gamedev.stackexchange.com/questions/188379/what-does-vertex-splitting-mean)
+
+In graph theory, vertex splitting is also a problem where the objective is to determine a minimum number of vertices to split so that the resulting directed acyclic graph (DAG) has no path of length d2. -- [Vertex Splitting In Dags And Applications To Partial Scan Designs And Lossy Circuits](https://www.cise.ufl.edu/~sahni/papers/splitc.pdf)
+
+<br />
+
 ## PS2模拟器相关技术
 
 - [Alpha Testing in the GS world](https://pcsx2.net/developer-blog/279-alpha-testing-gs-world.html)
