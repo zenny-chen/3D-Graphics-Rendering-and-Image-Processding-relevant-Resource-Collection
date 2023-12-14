@@ -88,6 +88,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [Order-Independent Transparency](https://www.cnblogs.com/mavaL/p/3525890.html)
 - [OpenGL Dual Source Blending](https://www.khronos.org/opengl/wiki/Blending#Dual_Source_Blending)
 - [OpenGL ES 2.0+ 如何设置点的大小](https://gamedev.stackexchange.com/questions/11095/opengl-es-2-0-point-sprites-size)
+- [Point Sprites \(Direct3D 9\)](https://learn.microsoft.com/en-us/windows/win32/direct3d9/point-sprites)
 - [Point Sprites](http://www.informit.com/articles/article.aspx?p=770639&seqNum=7)
 - [Chapter 7. Sprites and Text](https://www.oreilly.com/library/view/iphone-3d-programming/9781449388133/ch07.html)
 - [OpenGL Interpolation Qualifiers (GLSL)](https://www.geeks3d.com/20130514/opengl-interpolation-qualifiers-glsl-tutorial/)
