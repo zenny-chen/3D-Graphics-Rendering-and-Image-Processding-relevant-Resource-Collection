@@ -206,6 +206,8 @@ void main(void)
 - [Variable-rate shading \(VRS\)](https://learn.microsoft.com/en-us/windows/win32/direct3d12/vrs)
 - [VRS （Variable-rate shading） 技术介绍&移动端接入现状调研](https://zhuanlan.zhihu.com/p/628429688)
 - [Fragment Shading Rate](https://docs.vulkan.org/samples/latest/samples/extensions/fragment_shading_rate_dynamic/README.html)
+- [Sample Mask Overview](https://learn.microsoft.com/en-us/windows/win32/direct3d11/d3d10-graphics-programming-guide-output-merger-stage#sample-mask-overview) refers to [`D3D12_GRAPHICS_PIPELINE_STATE_DESC::SampleMask`](https://learn.microsoft.com/en-us/windows/win32/api/d3d12/ns-d3d12-d3d12_graphics_pipeline_state_desc#members)
+- [29.4. Sample Mask Test](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/vkspec.html#fragops-samplemask)
 - [gl_SampleMask](https://registry.khronos.org/OpenGL-Refpages/gl4/html/gl_SampleMask.xhtml)（HLSL **`SV_Coverage`**）
 - [Direct3D 11.3 Functional Specification -- 16.5 Pull Model Attribute Evaluation](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#16.5%20Pull%20Model%20Attribute%20Evaluation)
 - [EvaluateAttributeSnapped function](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/evaluateattributesnapped)
