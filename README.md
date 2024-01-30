@@ -245,6 +245,8 @@ void main(void)
 - [Unity——Screenspace Shadow Map与传统Shadow Map](https://blog.csdn.net/m0_62316271/article/details/128519219)
 - [What are the key differences between Open Shader Language and GLSL](https://stackoverflow.com/questions/46093694/what-are-the-key-differences-between-open-shader-language-and-glsl)
 - [Arm Frame Buffer Compression (AFBC)](https://developer.arm.com/architectures/media-architectures/afbc)
+- [虚幻五渲染编程（Graphic篇）【第十六卷：Sparse Volume Texture 上】](https://zhuanlan.zhihu.com/p/671348210)
+- [【UE】风格化场景全流程学习记录 Part1.地形（对RVT和材质的理解）](https://zhuanlan.zhihu.com/p/515603213)
 - [计算机视觉的计算几何及Python实现](https://www.toutiao.com/a6637430623361303053)
 - [polygon-mesh-in-computer-graphics](https://www.geeksforgeeks.org/polygon-mesh-in-computer-graphics/)
 > A mesh is a collection of vertices, edges, and faces that define a 3D object's shape and geometry, it's used to represent 3D objects in computer graphics programs; it provides a way to define the object's surface in terms of vertices, edges, and faces.
