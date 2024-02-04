@@ -136,6 +136,8 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [使用计算着色器（Compute Shader）模拟粒子效果【OpenGL】](https://blog.csdn.net/panda1234lee/article/details/70521910)
 - [OpenGL ES3.1使用计算着色器（Compute Shader）](https://blog.csdn.net/qq_39561000/article/details/103112147)
 - [同步连续的OpenGL Compute Shader调用](https://qastack.cn/computergraphics/400/synchronizing-successive-opengl-compute-shader-invocations)
+- [OpenGL Geometry Shader](https://www.khronos.org/opengl/wiki/Geometry_Shader)
+- [几何着色器（Geometry Shader）的基础介绍以及简单示例](https://zhuanlan.zhihu.com/p/585436751)
 - [Would love to see optional Geometry Shaders](https://github.com/gpuweb/gpuweb/issues/1239)
 - [几何着色器](https://learnopengl-cn.github.io/04%20Advanced%20OpenGL/09%20Geometry%20Shader/)
 - [【OpenGL】笔记二十七、几何着色器](https://blog.csdn.net/ycrsw/article/details/125128835)
