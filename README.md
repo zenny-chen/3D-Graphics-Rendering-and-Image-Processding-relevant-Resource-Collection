@@ -53,7 +53,6 @@ sample2D( depth_buffer_last, (pixel_coordinates * inverse(MPV_current) * MPV_las
 - [png转换成pvz源代码](https://github.com/cjhanson/PNGPOTimizer/tree/CCZ)
 - [移动平台游戏的性能优化](http://www.csdn.net/article/2015-05-27/2824785)
 - [Performance Tuning for Tile-Based Architecture Tile-Based架构下的性能调校](http://www.cnblogs.com/gameknife/p/3515714.html)
-- [GL_EXT_shader_pixel_local_storage](https://registry.khronos.org/OpenGL/extensions/EXT/EXT_shader_pixel_local_storage.txt)
 - [移动端下PLS（Pixel Local Storage）减少带宽开销的原理](https://blog.csdn.net/CrazyEngine/article/details/120310567)
 - [数字图像处理 傅里叶变换](http://blog.csdn.net/zkp0601/article/details/41295283)
 - [轻量级隐写分析模型](https://www.toutiao.com/i6895918997670363651/)
@@ -84,11 +83,9 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [Vulkan MSAA (Multisample anti-aliasing)](https://docs.vulkan.org/samples/latest/samples/performance/msaa/README.html)
 - [Vulkan MSAA](https://zhuanlan.zhihu.com/p/661448130)
 - [游戏引擎随笔 0x15：现代图形 API 的 MSAA](https://zhuanlan.zhihu.com/p/263101710)
-- 这篇文章是关于颜色混合半透明效果讲解得比较透彻的：[GLSL Programming/GLUT/Transparency](https://en.wikibooks.org/wiki/GLSL_Programming/GLUT/Transparency)
-这里需要注意的是，由于iOS中的图形流水线机制是将从片段着色器输出的像素颜色值，在送到颜色混合固定功能单元之前就已经预先乘了alpha值。这种情况下需要使用`glBlendFunc(GL_ONE, GL_ONE_MINUS_SRC_ALPHA)`来做颜色混合。
+- [GLSL Programming/GLUT/Transparency](https://en.wikibooks.org/wiki/GLSL_Programming/GLUT/Transparency)（这篇文章是关于颜色混合半透明效果讲解得比较透彻的。这里需要注意的是，由于 iOS 中的图形流水线机制是将从片段着色器输出的像素颜色值，在送到颜色混合固定功能单元之前就已经预先乘了 alpha 值。这种情况下需要使用 `glBlendFunc(GL_ONE, GL_ONE_MINUS_SRC_ALPHA)` 来做颜色混合。）
 - [opengl es2 premultiplied vs straight alpha + blending](https://stackoverflow.com/questions/19674740/opengl-es2-premultiplied-vs-straight-alpha-blending)
 - [Order-Independent Transparency](https://www.cnblogs.com/mavaL/p/3525890.html)
-- [OpenGL Dual Source Blending](https://www.khronos.org/opengl/wiki/Blending#Dual_Source_Blending)
 - [OpenGL ES 2.0+ 如何设置点的大小](https://gamedev.stackexchange.com/questions/11095/opengl-es-2-0-point-sprites-size)
 - [PointSize\(3\) Manual Page](https://registry.khronos.org/vulkan/specs/1.3-extensions/man/html/PointSize.html)
 - [Point Sprites \(Direct3D 9\)](https://learn.microsoft.com/en-us/windows/win32/direct3d9/point-sprites)
@@ -184,17 +181,6 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [Can't access fbo attached texture in GLSL compute shader with gimage2D](https://stackoverflow.com/questions/22947896/cant-access-fbo-attached-texture-in-glsl-compute-shader-with-gimage2d)
 - [Vulkan input attachments and sub passes](https://www.saschawillems.de/blog/2018/07/19/vulkan-input-attachments-and-sub-passes/)
 - [Input Attachments - reading random location? Read/Write in same pass?](https://community.khronos.org/t/input-attachments-reading-random-location-read-write-in-same-pass/7035)
-- 多个color attachment的输出：
-```glsl
-#version 450 core
-layout(location = 0) out vec4 color_out;
-layout(location = 1) out vec4 color_out1;
-void main(void)
-{
-    color_out = vec4(0.0, 0.5, 0.0, 0.8);
-    color_out1 = vec4(1.0, 1.0, 1.0, 1.0);
-}
-```
 - [Precise Qualifier in GLSL and NVIDIA GeForce Cards](https://www.geeks3d.com/20120106/precise-qualifier-in-glsl-and-nvidia-geforce-cards/)
 - [How exactly is GLSL's "coherent" memory qualifier interpreted by GPU drivers for multi-pass rendering?](https://stackoverflow.com/questions/9731204/how-exactly-is-glsls-coherent-memory-qualifier-interpreted-by-gpu-drivers-for)
 - [GLSL: about coherent qualifier](https://stackoverflow.com/questions/56340333/glsl-about-coherent-qualifier)（内含 **`atomicAdd`** 的使用）
@@ -226,6 +212,7 @@ void main(void)
 - [RWBuffer vs RWStructuredBuffer or RWByteAddressBuffer](https://gamedev.net/forums/topic/678018-rwbuffer-vs-rwstructuredbuffer-or-rwbyteaddressbuffer/)
 - [D3D12 WriteBufferImmediate Hardware Spec](https://microsoft.github.io/DirectX-Specs/d3d/D3D12WriteBufferImmediate.html)
 - [Framebuffer Object](https://www.khronos.org/opengl/wiki/Framebuffer_Object)
+- [OpenGL Dual Source Blending](https://www.khronos.org/opengl/wiki/Blending#Dual_Source_Blending)
 - [OpenGL ES MRT多目标渲染](https://www.jianshu.com/p/5daa834b7bda)
 - [HOW TO RENDER TO A TEXTURE ARRAY IN UNITY](http://xdpixel.com/how-to-render-to-a-texture-array-in-unity/)
 - [使用Warp/Wave与LDS优化Wavefront管线](https://zhuanlan.zhihu.com/p/648728304)
