@@ -136,7 +136,6 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [Direct3D 11 Geometry Shader Stage](https://learn.microsoft.com/en-us/windows/win32/direct3d11/geometry-shader-stage)
 - [几何着色器（Geometry Shader）的基础介绍以及简单示例](https://zhuanlan.zhihu.com/p/585436751)
 - [OpenGL Geometry Shader](https://www.khronos.org/opengl/wiki/Geometry_Shader)
-- [几何着色器（Geometry Shader）的基础介绍以及简单示例](https://zhuanlan.zhihu.com/p/585436751)
 - [Would love to see optional Geometry Shaders](https://github.com/gpuweb/gpuweb/issues/1239)
 - [几何着色器](https://learnopengl-cn.github.io/04%20Advanced%20OpenGL/09%20Geometry%20Shader/)
 - [【OpenGL】笔记二十七、几何着色器](https://blog.csdn.net/ycrsw/article/details/125128835)
