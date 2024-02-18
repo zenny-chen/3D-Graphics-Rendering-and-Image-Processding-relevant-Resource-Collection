@@ -215,6 +215,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [Framebuffer Object](https://www.khronos.org/opengl/wiki/Framebuffer_Object)
 - [OpenGL Dual Source Blending](https://www.khronos.org/opengl/wiki/Blending#Dual_Source_Blending)
 - [OpenGL ES MRT多目标渲染](https://www.jianshu.com/p/5daa834b7bda)
+- > With multiple RTs, the pixel shader is called once per pixel and produces values for all render targets.
 - [HOW TO RENDER TO A TEXTURE ARRAY IN UNITY](http://xdpixel.com/how-to-render-to-a-texture-array-in-unity/)
 - [使用Warp/Wave与LDS优化Wavefront管线](https://zhuanlan.zhihu.com/p/648728304)
 - [游戏引擎随笔 0x28：现代图形 API 的 Wave Intrinsics、Subgroup 以及 SIMD-group](https://zhuanlan.zhihu.com/p/469436345)
