@@ -213,6 +213,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [Direct3D 11 Tiled resources](https://learn.microsoft.com/en-us/windows/win32/direct3d11/tiled-resources)
 - [DirectX-Specs -- Sampler Feedback](https://microsoft.github.io/DirectX-Specs/d3d/SamplerFeedback.html)
 - [Vulkan 1.3 -- 33. Sparse Resources](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/chap33.html)
+- [Vulkan Spec -- Sparse Resources](https://docs.vulkan.org/spec/latest/chapters/sparsemem.html)
 - [Vulkan Guide -- Sparse Resources](https://docs.vulkan.org/guide/latest/sparse_resources.html)
 - [RWBuffer vs RWStructuredBuffer or RWByteAddressBuffer](https://gamedev.net/forums/topic/678018-rwbuffer-vs-rwstructuredbuffer-or-rwbyteaddressbuffer/)
 - [D3D12 WriteBufferImmediate Hardware Spec](https://microsoft.github.io/DirectX-Specs/d3d/D3D12WriteBufferImmediate.html)
