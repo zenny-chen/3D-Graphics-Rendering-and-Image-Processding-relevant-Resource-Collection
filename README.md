@@ -211,6 +211,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [Direct3D 12 -- Memory Aliasing and Data Inheritance](https://learn.microsoft.com/en-us/windows/win32/direct3d12/memory-aliasing-and-data-inheritance)
 - [Vulkan -- 12.8. Memory Aliasing](https://registry.khronos.org/vulkan/specs/1.3/html/chap12.html#resources-memory-aliasing)
 - [Direct3D 11 Tiled resources](https://learn.microsoft.com/en-us/windows/win32/direct3d11/tiled-resources)
+- [Volume tiled resources \(Direct3D 12\)](https://learn.microsoft.com/en-us/windows/win32/direct3d12/volume-tiled-resources)
 - [DirectX-Specs -- Sampler Feedback](https://microsoft.github.io/DirectX-Specs/d3d/SamplerFeedback.html)
 - [Vulkan 1.3 -- 33. Sparse Resources](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/chap33.html)
 - [Vulkan Spec -- Sparse Resources](https://docs.vulkan.org/spec/latest/chapters/sparsemem.html)
