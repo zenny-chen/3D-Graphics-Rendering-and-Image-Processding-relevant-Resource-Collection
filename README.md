@@ -230,6 +230,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [android framebuffer和HAL以及显示系统](https://blog.csdn.net/wanglongwang201209/article/details/12616197)
 - [Android下Opengl ES实现单屏幕双眼显示](https://blog.csdn.net/u011371324/article/details/68946779)
 - [Bit blit](https://en.wikipedia.org/wiki/Bit_blit)
+- 使用 [**`glProvokingVertex`**](https://registry.khronos.org/OpenGL-Refpages/gl4/html/glProvokingVertex.xhtml) 修改哪个顶点作为当前图元的 provoking vertex。
 - [Face Culling](https://www.khronos.org/opengl/wiki/Face_Culling)
 - [Vertex Post-Processing](https://www.khronos.org/opengl/wiki/Vertex_Post-Processing)
 - [Clipping FAQ](https://www.khronos.org/opengl/wiki/Clipping_FAQ)
