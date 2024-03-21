@@ -101,6 +101,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [GLSL: Center or Centroid?  \(Or When Shaders Attack!\)](https://www.opengl.org/pipeline/article/vol003_6/)（其中介绍了使用 **`centroid`** 模式不会产生 **extrapolation**，而只会使用 **interpolation**；但 **`center`** 模式则可能会引发 **extrapolation**）
 - [extrapolation and interpolation](https://www.techtarget.com/whatis/definition/extrapolation-and-interpolation)
 - [Extrapolation wiki](https://en.wikipedia.org/wiki/Extrapolation)
+- [Barycentric coordinate system](https://en.m.wikipedia.org/wiki/Barycentric_coordinate_system)
 - [OpenGL 学习笔记之 VBO VAO EBO 概念和使用方法总结](https://www.cnblogs.com/im18620660608/p/17210544.html)
 - [OpenGL ES之uniform和varying](https://zhuanlan.zhihu.com/p/103687720)
 - [gluLookAt](https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml/gluLookAt.xml)
