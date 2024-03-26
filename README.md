@@ -239,6 +239,8 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [Vertex Post-Processing](https://www.khronos.org/opengl/wiki/Vertex_Post-Processing)
 - [Clipping FAQ](https://www.khronos.org/opengl/wiki/Clipping_FAQ)
 - [Clipping \(OpenGL\)](https://learn.microsoft.com/en-us/windows/win32/opengl/clipping)
+- [初探FOV](https://zhuanlan.zhihu.com/p/312194696)
+- [摄像头参数介绍 — 视场角\(FOV\)](https://blog.csdn.net/qq_42957717/article/details/125508235)
 - [延迟着色法](https://learnopengl-cn.readthedocs.io/zh/latest/05%20Advanced%20Lighting/08%20Deferred%20Shading/)（对 **G-buffer** 有详细介绍）
 - [Unity上怎么在移动端使用Render pass实现高性能的延迟着色？](https://www.zhihu.com/question/485735429)
 - [延迟着色和Forward+在移动端各有什么利弊？](https://www.zhihu.com/question/487242931)
