@@ -54,6 +54,7 @@ sample2D(depth_buffer_last, (pixel_coordinates * inverse(MPV_current) * MPV_last
 - [一文理解 YUV](https://zhuanlan.zhihu.com/p/75735751)
 - [PVR/PVRTC解压源码](https://github.com/Volcore/quickpvr)
 - [png转换成pvz源代码](https://github.com/cjhanson/PNGPOTimizer/tree/CCZ)
+- [Optimizing Triangles for a Full-screen Pass](https://wallisc.github.io/rendering/2021/04/18/Fullscreen-Pass.html)（内含 **GPU Quads** 这一概念）
 - [移动平台游戏的性能优化](http://www.csdn.net/article/2015-05-27/2824785)
 - [Performance Tuning for Tile-Based Architecture Tile-Based架构下的性能调校](http://www.cnblogs.com/gameknife/p/3515714.html)
 - [移动端下PLS（Pixel Local Storage）减少带宽开销的原理](https://blog.csdn.net/CrazyEngine/article/details/120310567)
