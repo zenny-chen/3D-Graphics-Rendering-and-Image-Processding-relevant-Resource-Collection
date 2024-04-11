@@ -213,6 +213,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [GL_EXT_raster_multisample](https://registry.khronos.org/OpenGL/extensions/EXT/EXT_raster_multisample.txt)
 - [Vulkan feature request: Target Indpendent Rasterization](https://gitlab.freedesktop.org/mesa/mesa/-/issues/5581)
 - [DirectX-Specs D3D12 Depth Bounds Test](https://microsoft.github.io/DirectX-Specs/d3d/DepthBoundsTest.html)
+- [Vulkan 29.8. Depth Bounds Test](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/vkspec.html#fragops-dbt)
 - [GL_EXT_depth_bounds_test](https://registry.khronos.org/OpenGL/extensions/EXT/EXT_depth_bounds_test.txt)
 - [Direct3D 12 -- Memory Aliasing and Data Inheritance](https://learn.microsoft.com/en-us/windows/win32/direct3d12/memory-aliasing-and-data-inheritance)
 - [Vulkan -- 12.8. Memory Aliasing](https://registry.khronos.org/vulkan/specs/1.3/html/chap12.html#resources-memory-aliasing)
