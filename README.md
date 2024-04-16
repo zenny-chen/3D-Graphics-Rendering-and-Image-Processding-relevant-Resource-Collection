@@ -216,7 +216,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [EvaluateAttributeSnapped function](https://github.com/MicrosoftDocs/win32/blob/docs/desktop-src/direct3dhlsl/evaluateattributesnapped.md)
 - [Target Independent Rasterization](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#TIR)
 - [GL_EXT_raster_multisample](https://registry.khronos.org/OpenGL/extensions/EXT/EXT_raster_multisample.txt)
-- [Vulkan feature request: Target Indpendent Rasterization](https://gitlab.freedesktop.org/mesa/mesa/-/issues/5581)
+- [VK_EXT_multisampled_render_to_single_sampled](https://registry.khronos.org/vulkan/specs/1.3-extensions/man/html/VK_EXT_multisampled_render_to_single_sampled.html)
 - [DirectX-Specs D3D12 Depth Bounds Test](https://microsoft.github.io/DirectX-Specs/d3d/DepthBoundsTest.html)
 - [Vulkan 29.8. Depth Bounds Test](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/vkspec.html#fragops-dbt)
 - [GL_EXT_depth_bounds_test](https://registry.khronos.org/OpenGL/extensions/EXT/EXT_depth_bounds_test.txt)
