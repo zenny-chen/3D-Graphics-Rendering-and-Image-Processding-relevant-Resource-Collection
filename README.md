@@ -50,6 +50,11 @@ sample2D(depth_buffer_last, (pixel_coordinates * inverse(MPV_current) * MPV_last
 如果是shadowmap，就用那个light space projection matrix。scatter的问题 bilateral filter 搞下。
 
 - [双边滤波 - Bilateral Filter](https://zhuanlan.zhihu.com/p/180497579)
+- [Tone Mapping](https://zhuanlan.zhihu.com/p/484407937)
+- [图形 4.1 Bloom算法 游戏中的辉光效果实现](https://zhuanlan.zhihu.com/p/577616439)
+- [An investigation of fast real-time GPU-based image blur algorithms](https://www.intel.com/content/www/us/en/developer/articles/technical/an-investigation-of-fast-real-time-gpu-based-image-blur-algorithms.html)
+- [【论文复现】The Power of Box Filters](https://zhuanlan.zhihu.com/p/376909693)
+- [高品质后处理：十种图像模糊算法的总结与实现](https://zhuanlan.zhihu.com/p/125744132)
 - [颜色空间——Gamma与线性颜色空间](https://www.cnblogs.com/guanzz/p/7416821.html)
 - [一文理解 YUV](https://zhuanlan.zhihu.com/p/75735751)
 - [PVR/PVRTC解压源码](https://github.com/Volcore/quickpvr)
