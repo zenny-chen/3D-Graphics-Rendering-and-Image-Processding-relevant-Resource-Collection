@@ -231,6 +231,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [RWBuffer vs RWStructuredBuffer or RWByteAddressBuffer](https://gamedev.net/forums/topic/678018-rwbuffer-vs-rwstructuredbuffer-or-rwbyteaddressbuffer/)
 - [D3D12 WriteBufferImmediate Hardware Spec](https://microsoft.github.io/DirectX-Specs/d3d/D3D12WriteBufferImmediate.html)
 - [Framebuffer Object](https://www.khronos.org/opengl/wiki/Framebuffer_Object)
+- [Framebuffer Fetch in Vulkan](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/framebuffer-fetch-in-vulkan)
 - [OpenGL Dual Source Blending](https://www.khronos.org/opengl/wiki/Blending#Dual_Source_Blending)
 - [OpenGL ES MRT多目标渲染](https://www.jianshu.com/p/5daa834b7bda)
 - > With multiple RTs, the pixel shader is called once per pixel and produces values for all render targets.
