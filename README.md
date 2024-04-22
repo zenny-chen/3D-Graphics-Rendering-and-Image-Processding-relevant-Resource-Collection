@@ -84,6 +84,11 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 
 详情可见：[VK_FORMAT_R8G8B8A8_[U/S]SCALED vs VK_FORMAT_A8B8G8R8_[U/S]SCALED_PACK32 ?](https://community.khronos.org/t/vk-format-r8g8b8a8-u-s-scaled-vs-vk-format-a8b8g8r8-u-s-scaled-pack32/6769)
 
+- **Direct3D 10** 起所使用的颜色格式：[DXGI_FORMAT enumeration](https://learn.microsoft.com/en-us/windows/win32/api/dxgiformat/ne-dxgiformat-dxgi_format)
+- 老旧的 **Direct3D 9** 所使用的颜色格式：[D3DFORMAT](https://learn.microsoft.com/en-us/windows/win32/direct3d9/d3dformat)
+- Windows DDI 所支持的颜色格式：[D3DDDIFORMAT enumeration](https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/d3dukmdt/ne-d3dukmdt-_d3dddiformat)
+- Vulkan 支持的颜色格式：[VkFormat](https://registry.khronos.org/vulkan/specs/1.3-extensions/man/html/VkFormat.html)
+- OpenGL 颜色格式可参考：[Image Format](https://www.khronos.org/opengl/wiki/Image_Format) 以及 [Image formats](https://www.khronos.org/opengl/wiki/Layout_Qualifier_(GLSL)#Image_formats)
 - [Tutorial 12 : OpenGL Extensions](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-12-opengl-extensions/)
 - [OpenGL ES3使用MSAA（多重采样抗锯齿）的方法](https://www.cnblogs.com/zenny-chen/p/5058575.html)
 - [DirectX 12小技巧-启用MSAA](https://zhuanlan.zhihu.com/p/460439298)
