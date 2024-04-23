@@ -236,7 +236,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [RWBuffer vs RWStructuredBuffer or RWByteAddressBuffer](https://gamedev.net/forums/topic/678018-rwbuffer-vs-rwstructuredbuffer-or-rwbyteaddressbuffer/)
 - [D3D12 WriteBufferImmediate Hardware Spec](https://microsoft.github.io/DirectX-Specs/d3d/D3D12WriteBufferImmediate.html)
 - [Framebuffer Object](https://www.khronos.org/opengl/wiki/Framebuffer_Object)
-- [Framebuffer Fetch in Vulkan](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/framebuffer-fetch-in-vulkan)
+- [Framebuffer Fetch in Vulkan](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/framebuffer-fetch-in-vulkan)（包含了对 **`subpassLoad`** 的使用）
 - [shaders: semantics of "**`discard`**"](https://github.com/gpuweb/gpuweb/issues/361)
 - [OpenGL Dual Source Blending](https://www.khronos.org/opengl/wiki/Blending#Dual_Source_Blending)
 - [OpenGL ES MRT多目标渲染](https://www.jianshu.com/p/5daa834b7bda)
@@ -260,6 +260,8 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [延迟着色和Forward+在移动端各有什么利弊？](https://www.zhihu.com/question/487242931)
 - [Deferred shading](https://en.wikipedia.org/wiki/Deferred_shading)（含有对 **G-buffer** 的引用）
 - [Deferred shading on mobile: An API overview](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/deferred-shading-on-mobile)
+- [Vulkan Multipass Mobile Deferred Done Right](https://www.khronos.org/assets/uploads/developers/library/2017-gdc/GDC_Vulkan-on-Mobile_Vulkan-Multipass-ARM_Mar17.pdf)（包含了对 **`subpassLoad`** 的使用）
+- [Vulkano Tutorial Multi-pass Rendering](https://taidaesal.github.io/vulkano_tutorial/section_7.html)（包含了对 **`subpassLoad`** 的使用）
 - [\[主程必看\]移动设备GPU架构知识汇总！](https://m.sohu.com/a/408708498_667928)
 - [[游戏中的图形学实时渲染技术] Part1 实时阴影技术](https://zhuanlan.zhihu.com/p/640873640)
 - [一种软阴影的实现方法](https://blog.csdn.net/kenkao/article/details/6717247)
