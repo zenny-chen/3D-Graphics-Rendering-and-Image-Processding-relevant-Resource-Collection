@@ -237,6 +237,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [D3D12 WriteBufferImmediate Hardware Spec](https://microsoft.github.io/DirectX-Specs/d3d/D3D12WriteBufferImmediate.html)
 - [Framebuffer Object](https://www.khronos.org/opengl/wiki/Framebuffer_Object)
 - [Framebuffer Fetch in Vulkan](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/framebuffer-fetch-in-vulkan)（包含了对 **`subpassLoad`** 的使用）
+- [Using SPIR-V in practice with SPIRV-Cross](https://www.khronos.org/assets/uploads/developers/library/2016-vulkan-devday-uk/4-Using-spir-v-with-spirv-cross.pdf)（包含关于 **Subpass Input Attachments** 的介绍）
 - [shaders: semantics of "**`discard`**"](https://github.com/gpuweb/gpuweb/issues/361)
 - [OpenGL Dual Source Blending](https://www.khronos.org/opengl/wiki/Blending#Dual_Source_Blending)
 - [OpenGL ES MRT多目标渲染](https://www.jianshu.com/p/5daa834b7bda)
