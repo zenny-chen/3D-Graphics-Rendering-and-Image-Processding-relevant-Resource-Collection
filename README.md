@@ -199,6 +199,9 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - Khronos OpenGL官方文档中关于描述的 **`gbufferImage`** 类型，实际所对应的类型为：**`imageBuffer`**、**`iimageBuffer`** 和 **`uimageBuffer`**。该类型对应于Vulkan中具有 **`VK_BUFFER_USAGE_STORAGE_TEXEL_BUFFER_BIT`** usage 的 **`VkBuffer`**。同时在使用此 buffer 时需要结合 **`VkBufferView`** 一起使用。
 - [Trouble with imageStore\(\) \(OpenGL 4.3\)](https://stackoverflow.com/questions/14285849/trouble-with-imagestore-opengl-4-3) （In desktop OpenGL, it is perfectly legal to upload floating-point data to a normalized integer texture; OpenGL is expected to convert the data as best it can. ES doesn't do conversions, so it has to change the internal format (the third parameter) to match the data.）
 - [Can't access fbo attached texture in GLSL compute shader with gimage2D](https://stackoverflow.com/questions/22947896/cant-access-fbo-attached-texture-in-glsl-compute-shader-with-gimage2d)
+- [Framebuffer Object](https://www.khronos.org/opengl/wiki/Framebuffer_Object)
+- [Framebuffer Fetch in Vulkan](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/framebuffer-fetch-in-vulkan)（包含了对 **`subpassLoad`** 的使用）
+- [Using SPIR-V in practice with SPIRV-Cross](https://www.khronos.org/assets/uploads/developers/library/2016-vulkan-devday-uk/4-Using-spir-v-with-spirv-cross.pdf)（包含关于 **Subpass Input Attachments** 的介绍）
 - [Vulkan input attachments and sub passes](https://www.saschawillems.de/blog/2018/07/19/vulkan-input-attachments-and-sub-passes/)
 - [Input Attachments - reading random location? Read/Write in same pass?](https://community.khronos.org/t/input-attachments-reading-random-location-read-write-in-same-pass/7035)
 - [Precise Qualifier in GLSL and NVIDIA GeForce Cards](https://www.geeks3d.com/20120106/precise-qualifier-in-glsl-and-nvidia-geforce-cards/)
@@ -235,9 +238,6 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [Vulkan Guide -- Sparse Resources](https://docs.vulkan.org/guide/latest/sparse_resources.html)
 - [RWBuffer vs RWStructuredBuffer or RWByteAddressBuffer](https://gamedev.net/forums/topic/678018-rwbuffer-vs-rwstructuredbuffer-or-rwbyteaddressbuffer/)
 - [D3D12 WriteBufferImmediate Hardware Spec](https://microsoft.github.io/DirectX-Specs/d3d/D3D12WriteBufferImmediate.html)
-- [Framebuffer Object](https://www.khronos.org/opengl/wiki/Framebuffer_Object)
-- [Framebuffer Fetch in Vulkan](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/framebuffer-fetch-in-vulkan)（包含了对 **`subpassLoad`** 的使用）
-- [Using SPIR-V in practice with SPIRV-Cross](https://www.khronos.org/assets/uploads/developers/library/2016-vulkan-devday-uk/4-Using-spir-v-with-spirv-cross.pdf)（包含关于 **Subpass Input Attachments** 的介绍）
 - [shaders: semantics of "**`discard`**"](https://github.com/gpuweb/gpuweb/issues/361)
 - [OpenGL Dual Source Blending](https://www.khronos.org/opengl/wiki/Blending#Dual_Source_Blending)
 - [OpenGL ES MRT多目标渲染](https://www.jianshu.com/p/5daa834b7bda)
