@@ -270,6 +270,8 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [Unity——Screenspace Shadow Map与传统Shadow Map](https://blog.csdn.net/m0_62316271/article/details/128519219)
 - [（官方转载）UE5 虚拟阴影贴图 （VirtualShadowMaps）的优势和局限性](https://zhuanlan.zhihu.com/p/407945117)
 - [阴影贴图Variance Shadow Map](https://zhuanlan.zhihu.com/p/414746542)
+- [3D渲染光照模型总结7：SH 球谐光照](https://zhuanlan.zhihu.com/p/405472846)
+- [自定义SRP（六）—— 阴影遮罩（Shadow Mask）](https://zhuanlan.zhihu.com/p/642424160)
 - [PCSS（Percentage Closer Soft Shadows）](https://developer.huawei.com/consumer/cn/doc/graphics-Guides/pcss-0000001225365851)
 - [【Unity Shader】自定义阴影ShadowMap(CSM)](https://zhuanlan.zhihu.com/p/394233602)
 - [What are the key differences between Open Shader Language and GLSL](https://stackoverflow.com/questions/46093694/what-are-the-key-differences-between-open-shader-language-and-glsl)
