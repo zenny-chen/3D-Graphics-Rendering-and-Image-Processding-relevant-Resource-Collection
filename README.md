@@ -276,6 +276,7 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 - [3D渲染光照模型总结7：SH 球谐光照](https://zhuanlan.zhihu.com/p/405472846)
 - [球谐的基本理解](https://ttcn7kj9oq.feishu.cn/docx/IOWzdCNPDo0xYZxFjmDcygPenPf)
 - [Unity Shader学习：体积光（Volumetric Light）](https://zhuanlan.zhihu.com/p/425495211)
+- [3DGS综述《A Survey on 3D Gaussian Splatting》](https://zhuanlan.zhihu.com/p/677030206)
 - [What are the key differences between Open Shader Language and GLSL](https://stackoverflow.com/questions/46093694/what-are-the-key-differences-between-open-shader-language-and-glsl)
 - [Arm Frame Buffer Compression (AFBC)](https://developer.arm.com/architectures/media-architectures/afbc)
 - [虚幻五渲染编程（Graphic篇）【第十六卷：Sparse Volume Texture 上】](https://zhuanlan.zhihu.com/p/671348210)
