@@ -353,6 +353,7 @@ scene.add(cube)
 - [张心欣破Nanite招数于此](https://zhuanlan.zhihu.com/p/140943267)
 - [CG技术的转折点，算法TD的觉醒路](https://mp.weixin.qq.com/s?__biz=MzU2MTU4MTc1Ng==&mid=2247617154&idx=2&sn=7aad0ddbc6aa74752ee3b04cc36d1b42)
 - [计算机图形学（CG技术）在日本动画制作中的应用](https://www.toutiao.com/article/7230626039855252023/)
+- [虚幻引擎5.0文档](https://dev.epicgames.com/documentation/zh-cn/unreal-engine/unreal-engine-5-0-documentation?application_version=5.0)
 - [GPU-Motunui](https://www.render-blog.com/)
 - [OpenSubDiv](http://graphics.pixar.com/opensubdiv/docs/intro.html)
 - [开源库 OpenVDB获得过奥斯卡奖的开源 C++ 库加入ASWF](https://www.cgspread.com/9867.html)（VDB即：**Volumetric Database**）
