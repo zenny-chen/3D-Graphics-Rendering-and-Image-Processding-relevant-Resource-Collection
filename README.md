@@ -8,6 +8,8 @@
 - [mg博客](https://www.cnblogs.com/minggoddess/)
 - [handyTOOL的简书OpenGL ES文集](https://www.jianshu.com/nb/11846847)
 - [梁老师的博客园](https://www.cnblogs.com/len3d/)
+- [老顾谈几何（sciencenet）](https://blog.sciencenet.cn/home.php?mod=space&uid=2472277)
+- [老顾谈几何（腾讯网）](https://news.qq.com/omn/author/8QMd3Hpd6IEbvjrd)
 - [Morgan McGuire](https://research.nvidia.com/person/morgan-mcguire?tdsourcetag=s_pcqq_aiomsg)
 - [Matt Oztalay](https://linktr.ee/epicmattoztalay)
 - [What exactly is a softlock?](https://gaming.stackexchange.com/questions/357095/what-exactly-is-a-softlock)
