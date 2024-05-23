@@ -288,6 +288,7 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [GTAO原理&UE4移动端GTAO实现分析](https://zhuanlan.zhihu.com/p/473737959)
 - [实时全局光照（屏幕空间）：SSAO,HBAO,SSDO,SSR](https://www.bilibili.com/read/cv15211456/)
 - [Adaptive Screen Space Ambient Occlusion](https://www.intel.cn/content/www/cn/zh/developer/articles/technical/adaptive-screen-space-ambient-occlusion.html)
+- [高质量泛光（bloom）从理论到实战](https://zhuanlan.zhihu.com/p/525500877)
 - [What are the key differences between Open Shader Language and GLSL](https://stackoverflow.com/questions/46093694/what-are-the-key-differences-between-open-shader-language-and-glsl)
 - [Arm Frame Buffer Compression (AFBC)](https://developer.arm.com/architectures/media-architectures/afbc)
 - [虚幻五渲染编程（Graphic篇）【第十六卷：Sparse Volume Texture 上】](https://zhuanlan.zhihu.com/p/671348210)
