@@ -404,6 +404,7 @@ scene.add(cube)
 - [SIGGRAPH 2016: Talks](https://history.siggraph.org/learning-overview/siggraph-2016-talks/)
 - [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh/)
 - [3D Gaussian Splatting国内落地，元象3D拍摄与混编插件免费开放](https://zhuanlan.zhihu.com/p/669399970)
+- [英伟达Earth-2撕开了国内数字孪生的遮羞布](https://mp.weixin.qq.com/s?__biz=Mzg3NTU1NTU3Nw==&mid=2247485624&idx=1&sn=ebad29bee952b790eb5c566a69971eb5)
 
 <br />
 
