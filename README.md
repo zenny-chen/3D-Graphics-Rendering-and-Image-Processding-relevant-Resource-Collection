@@ -260,6 +260,11 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [Vertex Post-Processing](https://www.khronos.org/opengl/wiki/Vertex_Post-Processing)
 - [Clipping FAQ](https://www.khronos.org/opengl/wiki/Clipping_FAQ)
 - [Clipping \(OpenGL\)](https://learn.microsoft.com/en-us/windows/win32/opengl/clipping)
+- [D3D12 Queries](https://microsoft.github.io/DirectX-Specs/d3d/CountersAndQueries.html#queries)
+- [Direct3D 12 Queries](https://learn.microsoft.com/en-us/windows/win32/direct3d12/queries)
+- [Direct3D 12 predication and queries sample](https://learn.microsoft.com/en-us/samples/microsoft/directx-graphics-samples/d3d12-predication-and-queries-sample-win32/)
+- [Chapter 6. Hardware Occlusion Queries Made Useful](https://developer.nvidia.com/gpugems/gpugems2/part-i-geometric-complexity/chapter-6-hardware-occlusion-queries-made-useful)
+- [D3D10/11中的遮挡查询的使用](https://www.cnblogs.com/mikewolf2002/archive/2012/12/27/2836422.html)
 - [初探FOV](https://zhuanlan.zhihu.com/p/312194696)
 - [摄像头参数介绍 — 视场角\(FOV\)](https://blog.csdn.net/qq_42957717/article/details/125508235)
 - [延迟着色法](https://learnopengl-cn.readthedocs.io/zh/latest/05%20Advanced%20Lighting/08%20Deferred%20Shading/)（对 **G-buffer** 有详细介绍）
