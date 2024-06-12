@@ -260,7 +260,7 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [Vertex Post-Processing](https://www.khronos.org/opengl/wiki/Vertex_Post-Processing)
 - [Clipping FAQ](https://www.khronos.org/opengl/wiki/Clipping_FAQ)
 - [Clipping \(OpenGL\)](https://learn.microsoft.com/en-us/windows/win32/opengl/clipping)
-- [D3D12 Queries](https://microsoft.github.io/DirectX-Specs/d3d/CountersAndQueries.html#queries)
+- [DirectX-Specs -- Queries](https://microsoft.github.io/DirectX-Specs/d3d/CountersAndQueries.html#queries)
 - [Direct3D 12 Queries](https://learn.microsoft.com/en-us/windows/win32/direct3d12/queries)
 - [Direct3D 12 predication and queries sample](https://learn.microsoft.com/en-us/samples/microsoft/directx-graphics-samples/d3d12-predication-and-queries-sample-win32/)
 - [Chapter 6. Hardware Occlusion Queries Made Useful](https://developer.nvidia.com/gpugems/gpugems2/part-i-geometric-complexity/chapter-6-hardware-occlusion-queries-made-useful)
