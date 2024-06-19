@@ -94,6 +94,8 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - Windows DDI 所支持的颜色格式：[D3DDDIFORMAT enumeration](https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/d3dukmdt/ne-d3dukmdt-_d3dddiformat)
 - Vulkan 支持的颜色格式：[VkFormat](https://registry.khronos.org/vulkan/specs/1.3-extensions/man/html/VkFormat.html)
 - OpenGL 颜色格式可参考：[Image Format](https://www.khronos.org/opengl/wiki/Image_Format) 以及 [Image formats](https://www.khronos.org/opengl/wiki/Layout_Qualifier_(GLSL)#Image_formats)
+- [Small float formats – R11G11B10F precision](https://bartwronski.com/2017/04/02/small-float-formats-r11g11b10f-precision/)（**R11G11B10F** 颜色格式中，**R** 和 **G** 均具有 **`5`** 位指数位和 **`6`** 位尾数位；**B** 具有 **`5`** 位指数位和 **`5`** 位尾数位）
+- [【GAD翻译馆】小浮点格式——R11G11B10F精度](https://gwb.tencent.com/community/detail/117893)（是对上篇博文的翻译）
 - [Tutorial 12 : OpenGL Extensions](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-12-opengl-extensions/)
 - [OpenGL ES3使用MSAA（多重采样抗锯齿）的方法](https://www.cnblogs.com/zenny-chen/p/5058575.html)
 - [DirectX 12小技巧-启用MSAA](https://zhuanlan.zhihu.com/p/460439298)
