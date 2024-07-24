@@ -417,6 +417,7 @@ scene.add(cube)
 - [3D Gaussian Splatting国内落地，元象3D拍摄与混编插件免费开放](https://zhuanlan.zhihu.com/p/669399970)
 - [NVIDIA® GVDB Voxels](https://developer.nvidia.com/gvdb)
 - [英伟达Earth-2撕开了国内数字孪生的遮羞布](https://mp.weixin.qq.com/s?__biz=Mzg3NTU1NTU3Nw==&mid=2247485624&idx=1&sn=ebad29bee952b790eb5c566a69971eb5)
+- [Rivermax图像传输](https://zhuanlan.zhihu.com/p/706037895)
 
 <br />
 
