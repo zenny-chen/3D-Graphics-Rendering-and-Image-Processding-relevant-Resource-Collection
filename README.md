@@ -287,6 +287,7 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [自定义SRP（六）—— 阴影遮罩（Shadow Mask）](https://zhuanlan.zhihu.com/p/642424160)
 - [PCSS（Percentage Closer Soft Shadows）](https://developer.huawei.com/consumer/cn/doc/graphics-Guides/pcss-0000001225365851)
 - [【Unity Shader】自定义阴影ShadowMap(CSM)](https://zhuanlan.zhihu.com/p/394233602)
+- [Unity Unlit](https://docs.unity.cn/Packages/com.unity.render-pipelines.high-definition@14.0//manual/master-stack-unlit.html)
 - [3D渲染光照模型总结7：SH 球谐光照](https://zhuanlan.zhihu.com/p/405472846)
 - [球谐的基本理解](https://ttcn7kj9oq.feishu.cn/docx/IOWzdCNPDo0xYZxFjmDcygPenPf)
 - [Unity Shader学习：体积光（Volumetric Light）](https://zhuanlan.zhihu.com/p/425495211)
