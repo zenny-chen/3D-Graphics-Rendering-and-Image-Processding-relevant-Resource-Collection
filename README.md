@@ -27,6 +27,7 @@
 - [Opengl入门系列- FBO的渲染到纹理的用法](https://blog.csdn.net/zangle260/article/details/40430929)
 - [计算机图形学七：纹理映射\(Texture Mapping\)及Mipmap技术](https://zhuanlan.zhihu.com/p/144332091)
 - [Texture Gathers and Coordinate Precision](https://www.reedbeta.com/blog/texture-gathers-and-coordinate-precision/)
+- [What is a 'texture unit'?](https://community.khronos.org/t/what-is-a-texture-unit/63250)
 - [非常详细易懂的法线贴图(Normal Mapping)](https://blog.csdn.net/qq_26900671/article/details/79048727)
 - [3D 建模中的法线贴图解释](https://www.toutiao.com/article/7317458983211090468/)
 - [凹凸映射（Bump Map）实现原理](https://blog.csdn.net/archielau/article/details/9124341)
