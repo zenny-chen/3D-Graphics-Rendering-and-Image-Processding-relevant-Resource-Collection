@@ -122,6 +122,8 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [extrapolation and interpolation](https://www.techtarget.com/whatis/definition/extrapolation-and-interpolation)
 - [Extrapolation wiki](https://en.wikipedia.org/wiki/Extrapolation)
 - [Barycentric coordinate system](https://en.m.wikipedia.org/wiki/Barycentric_coordinate_system)
+- [现代GPU硬件光栅化算法是怎样的](https://www.zhihu.com/question/647016165)
+- [GPU图形微架构学习笔记（二）光栅化](https://zhuanlan.zhihu.com/p/433303673)
 - [OpenGL 学习笔记之 VBO VAO EBO 概念和使用方法总结](https://www.cnblogs.com/im18620660608/p/17210544.html)
 - [OpenGL ES之uniform和varying](https://zhuanlan.zhihu.com/p/103687720)
 - [gluLookAt](https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml/gluLookAt.xml)
