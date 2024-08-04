@@ -181,6 +181,10 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [OpenGL三维纹理坐标](http://blog.sina.com.cn/s/blog_687960370101gyh8.html)
 - [OpenGL版本低于4.5的glBindTextureUnit的替代品?](http://ask.sov5.cn/q/xaqaFk3Esa)
 - [OpenGL之——多纹理，混合纹理设置渲染](https://blog.csdn.net/qq_35294564/article/details/86546797)
+- [glTexEnv](https://docs.gl/gl3/glTexEnv)
+- [Texture Combiners](https://www.khronos.org/opengl/wiki/Texture_Combiners)
+- [Chapter 8. Advanced Lighting and Texturing](https://www.oreilly.com/library/view/iphone-3d-programming/9781449388133/ch08.html)
+- [Mathematics of glTexGen](https://www.khronos.org/opengl/wiki/Mathematics_of_glTexGen)
 - [Issue with RGBA32F texture format and mipmapping using OpenGL ES 3.0](https://stackoverflow.com/questions/44754479/issue-with-rgba32f-texture-format-and-mipmapping-using-opengl-es-3-0)
 - [Render to half float texture](https://stackoverflow.com/questions/23253497/render-to-half-float-texture)
 - [Read texture data](https://riptutorial.com/opengl/example/23514/read-texture-data)（OpenGL使用：**`glGetTexImage`**）
