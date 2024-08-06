@@ -426,7 +426,6 @@ scene.add(cube)
 - [アイドルマスター スターリットシーズン」におけるグラフィックス実装事例と最適化事例【UNREAL FEST EXTREME '22 SUMMER】](https://www.docswell.com/s/EpicGamesJapan/5G68XZ-UE_UFE22S_BNE_ILCA)
 - [『Hi-Fi RUSH』開発事例 グラフィックスと最適化紹介【UNREAL FEST 2023 TOKYO】](https://www.docswell.com/s/EpicGamesJapan/54QENW-UE_UF23T_TangoGameworks_1)
 - [Reality World 开源技术分享会](https://zhuanlan.zhihu.com/p/660240029)
-- [SIGGRAPH 2016: Talks](https://history.siggraph.org/learning-overview/siggraph-2016-talks/)
 - [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh/)
 - [3D Gaussian Splatting国内落地，元象3D拍摄与混编插件免费开放](https://zhuanlan.zhihu.com/p/669399970)
 - [3维重建之神经渲染-3DGS](https://zhuanlan.zhihu.com/p/703319114)
@@ -434,6 +433,8 @@ scene.add(cube)
 - [英伟达Earth-2撕开了国内数字孪生的遮羞布](https://mp.weixin.qq.com/s?__biz=Mzg3NTU1NTU3Nw==&mid=2247485624&idx=1&sn=ebad29bee952b790eb5c566a69971eb5)
 - [Rivermax图像传输](https://zhuanlan.zhihu.com/p/706037895)
 - [MoonRay（MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer）](https://github.com/dreamworksanimation/openmoonray)
+- [SIGGRAPH 2016: Talks](https://history.siggraph.org/learning-overview/siggraph-2016-talks/)
+- [SIGGRAPH 2024: Advances In Real-Time Rendering In Games](https://advances.realtimerendering.com/s2024/index.html)
 
 <br />
 
