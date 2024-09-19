@@ -44,6 +44,7 @@
 - [Multisampling primer](https://www.rastergrid.com/blog/gpu-tech/2021/10/multisampling-primer/)
 - [WebGL2系列之多采样渲染缓冲对象](https://blog.csdn.net/netcy/article/details/95948811)
 - [Another New Anti-Aliasing Mode: Enhanced Quality AA](https://www.anandtech.com/show/4061/amds-radeon-hd-6970-radeon-hd-6950/10)
+- [主流抗锯齿方案详解（三）FXAA](https://zhuanlan.zhihu.com/p/431384101)
 - [抗锯齿taa和fxaa区别？](https://baijiahao.baidu.com/s?id=1770505625550467551)
 - [What is the Morphological Anti-Aliasing \(MLAA\)](https://www.geeks3d.com/20101023/tips-what-is-the-morphological-anti-aliasing-mlaa/)
 - [SMAA: Subpixel Morphological Antialiasing](https://github.com/iryoku/smaa)
@@ -53,6 +54,7 @@ sample2D(depth_buffer_last, (pixel_coordinates * inverse(MPV_current) * MPV_last
 ```
 如果是shadowmap，就用那个light space projection matrix。scatter的问题 bilateral filter 搞下。
 
+- [AMD高保真超分算法1.0解密](https://blog.csdn.net/feelabclihu/article/details/132242061)（内含 **RCAS** 锐化）
 - [双边滤波 - Bilateral Filter](https://zhuanlan.zhihu.com/p/180497579)
 - [Tone Mapping](https://zhuanlan.zhihu.com/p/484407937)
 - [图形 4.1 Bloom算法 游戏中的辉光效果实现](https://zhuanlan.zhihu.com/p/577616439)
