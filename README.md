@@ -356,6 +356,7 @@ scene.add(cube)
 - [更快更清晰！NVIDIA首次实现SDF实时渲染，速度提升3个数量级](https://www.toutiao.com/i6924108185934660110/)
 - [实时渲染器开发(四) GTAO原理与实践](https://zhuanlan.zhihu.com/p/342210503)
 - [Falcor和Kajiya的render graph对比](https://zhuanlan.zhihu.com/p/697075883)
+- [Unity3D--渲染管线](https://docs.unity3d.com/cn/2020.2/Manual/render-pipelines.html)（其中介绍了 URP 和 HDRP）
 - [UE4 Real-time Hair Advances](https://www.fxguide.com/fxfeatured/ue4-real-time-hair-advances/)
 - [UE5 Lumen原理介绍](https://zhuanlan.zhihu.com/p/380720641)
 - [UE5渲染管线--Lumen全局光照](https://zhuanlan.zhihu.com/p/621956070)
