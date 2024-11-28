@@ -282,6 +282,7 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [D3D10/11中的遮挡查询的使用](https://www.cnblogs.com/mikewolf2002/archive/2012/12/27/2836422.html)
 - [初探FOV](https://zhuanlan.zhihu.com/p/312194696)
 - [摄像头参数介绍 — 视场角\(FOV\)](https://blog.csdn.net/qq_42957717/article/details/125508235)
+- [Advanced API Performance: Shaders](https://developer.nvidia.com/blog/advanced-api-performance-shaders/)
 - [延迟着色法](https://learnopengl-cn.readthedocs.io/zh/latest/05%20Advanced%20Lighting/08%20Deferred%20Shading/)（对 **G-buffer** 有详细介绍）
 - [Unity上怎么在移动端使用Render pass实现高性能的延迟着色？](https://www.zhihu.com/question/485735429)
 - [延迟着色和Forward+在移动端各有什么利弊？](https://www.zhihu.com/question/487242931)
