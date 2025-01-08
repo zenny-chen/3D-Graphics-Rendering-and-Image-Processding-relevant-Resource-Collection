@@ -376,6 +376,7 @@ scene.add(cube)
 - [1.HDRP入门](https://zhuanlan.zhihu.com/p/458453634)
 - [NVIDIA Gaming Technology](https://developer.nvidia.com/industries/game-development)
 - [How to Successfully Integrate NVIDIA DLSS 3](https://resources.nvidia.com/en-us-game-dev-dlss/how-to-successfully)
+- [英伟达 DLSS 4 官方技术讲解视频](https://www.bilibili.com/video/BV1Wdr2YjEjC/)
 - [NVIDIA DLSS Overview & Game Integrations](https://resources.nvidia.com/en-us-game-dev-dlss/gdc2103)
 - [FSR、DLSS谁更靠谱？RX 7900 XT VS. RTX 4080对比测试](https://mp.weixin.qq.com/s?__biz=MzU2MTU4MTc1Ng==&mid=2247800701&idx=2&sn=5b691923555fe8c742fb7de6f1cab186)
 - [AMD高保真超分算法1.0解密](https://blog.csdn.net/feelabclihu/article/details/132242061)（内含 **RCAS** 锐化）
