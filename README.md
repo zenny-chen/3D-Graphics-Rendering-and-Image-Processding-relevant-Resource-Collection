@@ -558,11 +558,11 @@ In graph theory, vertex splitting is also a problem where the objective is to de
 
 RGB转YUV的算法描述可见如下信息：
 
-![rgb-to-yuv](rgb2yuv.png)
+![rgb-to-yuv](images/rgb2yuv.png)
 
 YUV转RGB的算法描述可见以下图示：
 
-![yuv2rgb](yuv2rgb.png)
+![yuv2rgb](images/yuv2rgb.png)
 
 另外，在 http://en.wikipedia.org/wiki/Talk:YUV 中有一段对YUV转RGB的用C语言描述的近似算法。
 
@@ -583,13 +583,31 @@ YUV转RGB的算法描述可见以下图示：
 
 ## 以下为各个图形API的图形流水线
 
-![1.png](https://github.com/zenny-chen/3D-Graphics-Rendering-and-Image-Processding-relevant-Resource-Collection/blob/master/1.png)
+OpenGL Graphics Pipeline:
 
-![2.png](https://github.com/zenny-chen/3D-Graphics-Rendering-and-Image-Processding-relevant-Resource-Collection/blob/master/2.png)
+![OpenGL_graphics_pipeline.png](images/OpenGL_graphics_pipeline.png)
 
-![3.png](https://github.com/zenny-chen/3D-Graphics-Rendering-and-Image-Processding-relevant-Resource-Collection/blob/master/3.png)
+OpenGL ES Graphics Pipeline:
+
+![OpenGL-ES_graphics_pipeline.png](images/OpenGL-ES_graphics_pipeline.png)
 
 我们可以看到，OpenGL与OpenGL ES基本是一样的。此外，如果想了解OpenGL图形渲染流水线更为细节的情况，可参考此文：https://www.khronos.org/opengl/wiki/Rendering_Pipeline_Overview
+
+Metal API Graphics Pipeline:
+
+![metal_graphics_pipeline.png](images/metal_graphics_pipeline.png)
+
+Direct3D 11 Graphics Pipeline:
+
+![direct3d11_graphics_pipeline](images/direct3d11_graphics_pipeline.png)
+
+Direct3D 12 Graphics Pipeline:
+
+![direct3d12_graphics_pipeline](images/direct3d12_graphics_pipeline.png)
+
+Compute Pipeline:
+
+![compute-workload](images/compute-workload.jpg)
 
 <br />
 
