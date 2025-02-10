@@ -292,6 +292,7 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [Vulkan Multipass Mobile Deferred Done Right](https://www.khronos.org/assets/uploads/developers/library/2017-gdc/GDC_Vulkan-on-Mobile_Vulkan-Multipass-ARM_Mar17.pdf)（包含了对 **`subpassLoad`** 的使用）
 - [Vulkano Tutorial Multi-pass Rendering](https://taidaesal.github.io/vulkano_tutorial/section_7.html)（包含了对 **`subpassLoad`** 的使用）
 - [\[主程必看\]移动设备GPU架构知识汇总！](https://m.sohu.com/a/408708498_667928)
+- [Hierarchical Z-Buffer Occlusion Culling到底该怎么做？](https://zhuanlan.zhihu.com/p/416731287)
 - [[游戏中的图形学实时渲染技术] Part1 实时阴影技术](https://zhuanlan.zhihu.com/p/640873640)
 - [一种软阴影的实现方法](https://blog.csdn.net/kenkao/article/details/6717247)
 - [软阴影的实现尝试](https://zhuanlan.zhihu.com/p/158646632)
