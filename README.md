@@ -203,6 +203,7 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [OpenGL 4.2 Atomic Counter Demo: Rendering Order of Fragments](https://www.geeks3d.com/20120309/opengl-4-2-atomic-counter-demo-rendering-order-of-fragments/)
 - [OpenGL GLSL atomic counter in Vulkan](https://stackoverflow.com/questions/56682438/opengl-glsl-atomic-counter-in-vulkan)
 - [Vertex Rendering](https://www.khronos.org/opengl/wiki/Vertex_Rendering)
+- [Vertex Texture Fetch](https://www.khronos.org/opengl/wiki/Vertex_Texture_Fetch)（VTF）
 - [Primitive](https://www.khronos.org/opengl/wiki/Primitive)
 - [Shader Basics - Fragment Shader](https://shader-tutorial.dev/basics/fragment-shader/)
 - [Direct3D 11 -- Configuring Depth-Stencil Functionality](https://learn.microsoft.com/en-us/windows/win32/direct3d11/d3d10-graphics-programming-guide-depth-stencil)
