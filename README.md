@@ -585,6 +585,12 @@ YUV转RGB的算法描述可见以下图示：
 
 <br />
 
+## Xbox 360 模拟器
+
+- [XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
+
+<br />
+
 ## 以下为各个图形API的图形流水线
 
 OpenGL Graphics Pipeline:
