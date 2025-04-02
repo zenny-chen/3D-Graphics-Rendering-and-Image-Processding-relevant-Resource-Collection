@@ -49,6 +49,7 @@
 - [Vulkan MSAA (Multisample anti-aliasing)](https://docs.vulkan.org/samples/latest/samples/performance/msaa/README.html)
 - [Vulkan MSAA](https://zhuanlan.zhihu.com/p/661448130)
 - [D3D11_STANDARD_MULTISAMPLE_QUALITY_LEVELS enumeration](https://learn.microsoft.com/en-us/windows/win32/api/d3d11/ne-d3d11-d3d11_standard_multisample_quality_levels)（介绍了 Direct3D 11 中关于 MSAA 的 **Sample Locations**。）
+- [游戏引擎随笔 0x15：现代图形 API 的 MSAA](https://zhuanlan.zhihu.com/p/263101710)
 - [WebGL2系列之多采样渲染缓冲对象](https://blog.csdn.net/netcy/article/details/95948811)
 - [Another New Anti-Aliasing Mode: Enhanced Quality AA](https://www.anandtech.com/show/4061/amds-radeon-hd-6970-radeon-hd-6950/10)
 - [主流抗锯齿方案详解（三）FXAA](https://zhuanlan.zhihu.com/p/431384101)
@@ -108,7 +109,6 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [Small float formats – R11G11B10F precision](https://bartwronski.com/2017/04/02/small-float-formats-r11g11b10f-precision/)（**R11G11B10F** 颜色格式中，**R** 和 **G** 均具有 **`5`** 位指数位和 **`6`** 位尾数位；**B** 具有 **`5`** 位指数位和 **`5`** 位尾数位）
 - [【GAD翻译馆】小浮点格式——R11G11B10F精度](https://gwb.tencent.com/community/detail/117893)（是对上篇博文的翻译）
 - [Tutorial 12 : OpenGL Extensions](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-12-opengl-extensions/)
-- [游戏引擎随笔 0x15：现代图形 API 的 MSAA](https://zhuanlan.zhihu.com/p/263101710)
 - [How to choose specific GPU when create OpenGL context](https://stackoverflow.com/questions/68469954/how-to-choose-specific-gpu-when-create-opengl-context)
 - [GLSL Programming/GLUT/Transparency](https://en.wikibooks.org/wiki/GLSL_Programming/GLUT/Transparency)（这篇文章是关于颜色混合半透明效果讲解得比较透彻的。这里需要注意的是，由于 iOS 中的图形流水线机制是将从片段着色器输出的像素颜色值，在送到颜色混合固定功能单元之前就已经预先乘了 alpha 值。这种情况下需要使用 `glBlendFunc(GL_ONE, GL_ONE_MINUS_SRC_ALPHA)` 来做颜色混合。）
 - [opengl es2 premultiplied vs straight alpha + blending](https://stackoverflow.com/questions/19674740/opengl-es2-premultiplied-vs-straight-alpha-blending)
