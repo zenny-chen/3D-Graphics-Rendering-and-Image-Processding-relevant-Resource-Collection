@@ -45,7 +45,9 @@
 - [OpenGL ES3使用MSAA（多重采样抗锯齿）的方法](https://www.cnblogs.com/zenny-chen/p/5058575.html)
 - [DirectX 12小技巧-启用MSAA](https://zhuanlan.zhihu.com/p/460439298)
 - [SimpleMSAA_PC12](https://github.com/microsoft/Xbox-ATG-Samples/tree/main/PCSamples/IntroGraphics/SimpleMSAA_PC12)
+- [OpenGL Multisampling](https://www.khronos.org/opengl/wiki/Multisampling)（其中包含了关于 **Coverage** 的介绍，以及 **`gl_SampleMaskIn`** 和 [ARB_sample_shading](https://registry.khronos.org/OpenGL/extensions/ARB/ARB_sample_shading.txt) 的介绍。）
 - [Vulkan spec 28.4. Multisampling](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/vkspec.html#primsrast-multisampling)（这里详细介绍了 Vulkan 中关于 MSAA 的 **Sample Locations**。）
+- [Vulkan spec 29.4. Sample Mask Test](https://registry.khronos.org/vulkan/specs/latest/html/vkspec.html#fragops-samplemask)（这里介绍了 [VkPipelineMultisampleStateCreateInfo](https://registry.khronos.org/vulkan/specs/latest/man/html/VkPipelineMultisampleStateCreateInfo.html) 中的 **`pSampleMask`** 的相关操作以及与 **coverage mask** 的关联操作。）
 - [Vulkan MSAA (Multisample anti-aliasing)](https://docs.vulkan.org/samples/latest/samples/performance/msaa/README.html)
 - [Vulkan MSAA](https://zhuanlan.zhihu.com/p/661448130)
 - [D3D11_STANDARD_MULTISAMPLE_QUALITY_LEVELS enumeration](https://learn.microsoft.com/en-us/windows/win32/api/d3d11/ne-d3d11-d3d11_standard_multisample_quality_levels)（介绍了 Direct3D 11 中关于 MSAA 的 **Sample Locations**。）
