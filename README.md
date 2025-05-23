@@ -54,6 +54,7 @@
 - [游戏引擎随笔 0x15：现代图形 API 的 MSAA](https://zhuanlan.zhihu.com/p/263101710)
 - [WebGL2系列之多采样渲染缓冲对象](https://blog.csdn.net/netcy/article/details/95948811)
 - [Another New Anti-Aliasing Mode: Enhanced Quality AA](https://www.anandtech.com/show/4061/amds-radeon-hd-6970-radeon-hd-6950/10)
+- [NVIDIA Coverage Sampled Antialiasing](https://developer.download.nvidia.cn/SDK/9.5/Samples/DEMOS/Direct3D9/src/CSAATutorial/docs/CSAATutorial.pdf)
 - [主流抗锯齿方案详解（三）FXAA](https://zhuanlan.zhihu.com/p/431384101)
 - [抗锯齿taa和fxaa区别？](https://baijiahao.baidu.com/s?id=1770505625550467551)
 - [What is the Morphological Anti-Aliasing \(MLAA\)](https://www.geeks3d.com/20101023/tips-what-is-the-morphological-anti-aliasing-mlaa/)
