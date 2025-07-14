@@ -438,6 +438,10 @@ scene.add(cube)
 - [剖析虚幻渲染体系（12）- 移动端专题Part 2（GPU架构和机制）](https://www.cnblogs.com/timlly/p/15546797.html)
 - [剖析虚幻渲染体系（12）- 移动端专题Part 3（渲染优化）](https://www.cnblogs.com/timlly/p/15574911.html)
 - [剖析虚幻渲染体系（13）- RHI补充篇：现代图形API之奥义与指南](https://www.cnblogs.com/timlly/p/15680064.html)
+- [MeshBlend - A plugin for blending meshes, landscapes, etc in Unrea](https://forums.unrealengine.com/t/meshblend-a-plugin-for-blending-meshes-landscapes-etc-in-unreal/1937887)
+
+> 啊呀呀，很简单的啦，就是在mesh相交处生成衔接mesh并用layered material过度下。 <br/> 分为sdf和鸡buffer流派么？鸡buffer流派上车成本低，收效快。 <br/> 用骨骼比用chaos cloth更省完全是认知误区呢。其实本质上都是蒙皮啦。人多可以考虑集成和havok或是自研物理引擎，弄个百把人的大团队，娃哈哈。 <br/> 不过我不太清楚布料的消耗 布料那个碰撞体带动渲染模型的包裹变形应该也挺慢的吧。 <br/> 其实都一样，chaos最近几年也加了一些高阶一些的碰撞体，例如skinned level set，但你用简单胶囊体其实就和骨骼模拟差不多。
+  
 - [GPU-Motunui](https://www.render-blog.com/)
 - [OpenSubDiv](http://graphics.pixar.com/opensubdiv/docs/intro.html)
 - [开源库 OpenVDB获得过奥斯卡奖的开源 C++ 库加入ASWF](https://www.cgspread.com/9867.html)（VDB即：**Volumetric Database**）
