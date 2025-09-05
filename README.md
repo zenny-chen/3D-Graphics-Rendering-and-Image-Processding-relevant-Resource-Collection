@@ -117,6 +117,8 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [opengl es2 premultiplied vs straight alpha + blending](https://stackoverflow.com/questions/19674740/opengl-es2-premultiplied-vs-straight-alpha-blending)
 - [Order-Independent Transparency](https://www.cnblogs.com/mavaL/p/3525890.html)
 - [vulkan_顺序无关的半透明混合(OIT)](https://blog.csdn.net/qq_35312463/article/details/115827894)
+- [Alpha To Coverage](https://blog.csdn.net/a812073479/article/details/116093522)
+- [Alpha To Coverage](https://zhuanlan.zhihu.com/p/30962094505)
 - [OpenGL ES 2.0+ 如何设置点的大小](https://gamedev.stackexchange.com/questions/11095/opengl-es-2-0-point-sprites-size)
 - [PointSize\(3\) Manual Page](https://registry.khronos.org/vulkan/specs/1.3-extensions/man/html/PointSize.html)
 - [Point Sprites \(Direct3D 9\)](https://learn.microsoft.com/en-us/windows/win32/direct3d9/point-sprites)
