@@ -99,6 +99,10 @@ Direct3D 12 resources in HLSL are bound to virtual registers within logical regi
 
 在Direct3D的颜色表示中，**_SNORM** 后缀表示带符号的规格化的整数；它在一个资源中表示为一个带符号的整型数据，且在shader中被解释为一个带符号的范围在[-1, 1]的浮点值。对于以2的补码形式的整数来说，最大值为1.0f（一个5位的二进制数01111映射为1.0f），最小值是-1.0f（一个5位二进制数10000映射为-1.0f）。此外，第二小的数也被映射为-1.0f（一个5位的二进制数10001被映射为-1.0f）。整数结果的表示被均匀地分布在(-1.0 ... 0.0f) 浮点值范围内，且相对的其补集表示的数在 (0.0f ... 1.0f) 范围内。**_UNORM** 后缀表示无符号规格化整数；它在一个资源中被解释为一个无符号整数，且在shader中被解释为一个无符号的规格化的浮点数，范围在[0, 1]内。所有0被映射为0.0f，而所有的1被映射为1.0f。一个均匀分布的浮点值序列被表示为从0.0f到1.0f。例如，一个2比特的UNORM（00, 01, 10, 11）分别表示为：0.0f，1/3，2/3及1.0f。详情可参考：[Format Modifiers](https://learn.microsoft.com/en-us/windows/win32/api/dxgiformat/ne-dxgiformat-dxgi_format#format-modifiers)
 
+而颜色格式中，类似于 **“X8”** 这种格式表示扩展8位，并且这所扩展的8位必须是全零。如 [DXGI_FORMAT_R24G8_TYPELESS](https://microsoft.github.io/DirectX-Specs/d3d/PlanarDepthStencilDDISpec.html#dxgi_format_r24g8_typeless) 中所描述的：
+
+> Applications must initialize the X8 bits to zero when providing source planar depth placed texture data. Drivers must initialize X8 bits to zero when copying to planar depth placed texture data.
+
 OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format](https://www.khronos.org/opengl/wiki/Image_Format)。其中陈述了：
 
 > Normalized integer formats themselves are broken down into 2 kinds: unsigned normalized and signed normalized. Unsigned normalized integers store floating-point values on the range [0, 1], while signed normalized integers store values on the range [-1, 1].
