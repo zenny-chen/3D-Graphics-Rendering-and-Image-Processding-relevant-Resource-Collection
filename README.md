@@ -353,6 +353,7 @@ scene.add(cube)
 - [【翻译】哪些是流形，哪些不是流形](https://zhuanlan.zhihu.com/p/259312398)
 - [Shapr3D 是否能创建流形几何？非流形几何？](https://zhuanlan.zhihu.com/p/383617844)
 - [经过数十年的长期搜索，发现了超乎想象的曲面](https://www.163.com/dy/article/H987B5I20511831M.html)（这里提到了“亏格”【**genus**】）
+- [2025年终总结 - 微分几何助力突破具身智能发展的瓶颈](https://mp.weixin.qq.com/s?__biz=MzA3NTM4MzY1Mg==&mid=2650817969&idx=1&sn=ab6a8756d3b94e4430fa367e817e2065)
 - [16.4 三角形扇形(Fans)、条形(Strips)和网格](https://zhuanlan.zhihu.com/p/402709877)（`连接到一个顶点的边的数目称为顶点的价(valence)`）
 - [Boundary Edge](https://www.sciencedirect.com/topics/engineering/boundary-edge)
 - [Geodesic Distance（测地距离）](https://blog.csdn.net/Will_Ch/article/details/111185619)
