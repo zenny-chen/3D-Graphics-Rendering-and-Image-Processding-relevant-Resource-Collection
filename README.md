@@ -227,6 +227,7 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [Rectangle Texture](https://www.khronos.org/opengl/wiki/Rectangle_Texture)
 - [Buffer Texture](https://www.khronos.org/opengl/wiki/Buffer_Texture)
 - [samplerBuffer example needed](https://community.khronos.org/t/samplerbuffer-example-needed/63904)
+- [Sampler (GLSL)](https://wikis.khronos.org/opengl/Sampler_(GLSL))
 - [OpenGL Image Load Store Wiki](https://www.khronos.org/opengl/wiki/Image_Load_Store)
 - [Image Format](https://www.khronos.org/opengl/wiki/Image_Format)
 - [OpenGL 图像的加载和存储](https://blog.csdn.net/dayenglish/article/details/51439296)
