@@ -317,6 +317,8 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [（官方转载）UE5 虚拟阴影贴图 （VirtualShadowMaps）的优势和局限性](https://zhuanlan.zhihu.com/p/407945117)
 - [游戏引擎随笔 0x22：UE5 Virtual Shadow Maps 源码解析之 Nanite 篇](https://zhuanlan.zhihu.com/p/379628348)
 - [阴影贴图Variance Shadow Map](https://zhuanlan.zhihu.com/p/414746542)
+- [CSM阴影技术讲解](https://gwb.tencent.com/community/detail/117522)
+- [《CSM and PCF》](https://www.cnblogs.com/DeanWang/p/7143741.html)
 - [自定义SRP（六）—— 阴影遮罩（Shadow Mask）](https://zhuanlan.zhihu.com/p/642424160)
 - [PCSS（Percentage Closer Soft Shadows）](https://developer.huawei.com/consumer/cn/doc/graphics-Guides/pcss-0000001225365851)
 - [【Unity Shader】自定义阴影ShadowMap(CSM)](https://zhuanlan.zhihu.com/p/394233602)
