@@ -157,6 +157,7 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [从零开始的Vulkan](https://www.zhihu.com/column/c_1542671286655873024)
 - [一起学Vulkan图形开发](https://www.zhihu.com/column/chenyong2vulkan)
 - [Render graphs and Vulkan — a deep dive](http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
+- [Window System Integration \(WSI\)](https://docs.vulkan.org/spec/latest/chapters/VK_KHR_surface/wsi.html)
 - [Vulkan Window System Integration \(WSI\)](https://github.com/KhronosGroup/Vulkan-Guide/blob/main/chapters/wsi.adoc)
 - [Use `Direct-to-Display` Demo](https://github.com/search?q=repo%3ASaschaWillems%2FVulkan%20%20%20_DIRECT2DISPLAY&type=code)
 - [OpenGL 坐标系统详解](https://zhuanlan.zhihu.com/p/665555142)
