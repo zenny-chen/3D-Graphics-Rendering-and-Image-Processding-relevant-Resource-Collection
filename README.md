@@ -230,6 +230,7 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [Issue with reading depth buffer after depth render pass](https://community.khronos.org/t/issue-with-reading-depth-buffer-after-depth-render-pass/107442)
 - [How updating a depth buffer works in GPU?](https://computergraphics.stackexchange.com/questions/1954/how-updating-a-depth-buffer-works-in-gpu)
 - [Early Fragment Test](https://www.khronos.org/opengl/wiki/Early_Fragment_Test)（HLSL中使用：[earlydepthstencil](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/sm5-attributes-earlydepthstencil)）
+- [Fragment Shader/Defined Outputs](https://wikis.khronos.org/opengl/Fragment_Shader/Defined_Outputs)（GLSL中对于输出深度值的用法，通过 **`gl_FragDepth`**；而 [HLSL](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl-semantics#semantics-supported-only-for-direct3d-10-and-newer) 则使用 **`SV_Depth`**）
 - [Rectangle Texture](https://www.khronos.org/opengl/wiki/Rectangle_Texture)
 - [Buffer Texture](https://www.khronos.org/opengl/wiki/Buffer_Texture)
 - [samplerBuffer example needed](https://community.khronos.org/t/samplerbuffer-example-needed/63904)
