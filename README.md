@@ -261,6 +261,9 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [Variable-rate shading \(VRS\)](https://learn.microsoft.com/en-us/windows/win32/direct3d12/vrs)
 - [VRS （Variable-rate shading） 技术介绍&移动端接入现状调研](https://zhuanlan.zhihu.com/p/628429688)
 - [Fragment Shading Rate](https://docs.vulkan.org/samples/latest/samples/extensions/fragment_shading_rate_dynamic/README.html)
+- [Fragment Shading Rates](https://registry.khronos.org/VulkanSC/specs/1.0-extensions/html/vkspec.html#primsrast-fragment-shading-rate)
+- [VK_KHR_fragment_shading_rate](https://github.com/KhronosGroup/Vulkan-Docs/blob/main/proposals/VK_KHR_fragment_shading_rate.adoc)
+- [VK_KHR_fragment_shading_rate(3) Manual Page](https://registry.khronos.org/VulkanSC/specs/1.0-extensions/man/html/VK_KHR_fragment_shading_rate.html)
 - [Sample Mask Overview](https://learn.microsoft.com/en-us/windows/win32/direct3d11/d3d10-graphics-programming-guide-output-merger-stage#sample-mask-overview) refers to [`D3D12_GRAPHICS_PIPELINE_STATE_DESC::SampleMask`](https://learn.microsoft.com/en-us/windows/win32/api/d3d12/ns-d3d12-d3d12_graphics_pipeline_state_desc#members)
 - [29.4. Sample Mask Test](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/vkspec.html#fragops-samplemask)
 - [gl_SampleMask](https://registry.khronos.org/OpenGL-Refpages/gl4/html/gl_SampleMask.xhtml)（HLSL **`SV_Coverage`**）
