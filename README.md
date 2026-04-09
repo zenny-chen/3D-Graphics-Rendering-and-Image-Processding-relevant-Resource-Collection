@@ -174,6 +174,7 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [Vulkan Dynamic State](https://zhuanlan.zhihu.com/p/338237434)
 - [理解Vulkan渲染通道(RenderPass)](https://zhuanlan.zhihu.com/p/619295431)
 - [How to use a vulkan sampler with unnormalized texture-coordinates?](https://stackoverflow.com/questions/65790303/how-to-use-a-vulkan-sampler-with-unnormalized-texture-coordinates-without-trig)
+- [How are separated sampled images and samplers used in Vulkan with GLSL?](https://stackoverflow.com/questions/77070602/how-are-separated-sampled-images-and-samplers-used-in-vulkan-with-glsl)
 - [Vulkan查询支持哪些图像形式的VkFormat——vkGetPhysicalDeviceFormatProperties](https://registry.khronos.org/vulkan/specs/1.3-extensions/man/html/vkGetPhysicalDeviceFormatProperties.html)
 - [Vulkan查询支持哪些纹理采样格式的VkFormat——vkGetPhysicalDeviceImageFormatProperties](https://registry.khronos.org/vulkan/specs/1.3-extensions/man/html/vkGetPhysicalDeviceImageFormatProperties.html)
 - [Vulkan中的同步与缓存控制](https://zhuanlan.zhihu.com/p/161619652)
