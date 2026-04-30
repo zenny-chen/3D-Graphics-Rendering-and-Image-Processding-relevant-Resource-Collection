@@ -271,7 +271,10 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [VK_KHR_fragment_shading_rate(3) Manual Page](https://registry.khronos.org/VulkanSC/specs/1.0-extensions/man/html/VK_KHR_fragment_shading_rate.html)
 - [26.3. Multisampling](https://registry.khronos.org/VulkanSC/specs/1.0-extensions/html/vkspec.html#primsrast-multisampling)（包含了基于 Fragment Shading Rate 的 *Coverage Mask* 的访问方式）
 - [Sample Mask Overview](https://learn.microsoft.com/en-us/windows/win32/direct3d11/d3d10-graphics-programming-guide-output-merger-stage#sample-mask-overview) refers to [`D3D12_GRAPHICS_PIPELINE_STATE_DESC::SampleMask`](https://learn.microsoft.com/en-us/windows/win32/api/d3d12/ns-d3d12-d3d12_graphics_pipeline_state_desc#members)
+- [17.17 SampleMask](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#17.17%20SampleMask)
 - [29.4. Sample Mask Test](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/vkspec.html#fragops-samplemask)
+- [34.5.1. Sample Mask](https://registry.khronos.org/vulkan/specs/latest/html/vkspec.html#fragops-shader-samplemask)
+- [SampleMask(3) Manual Page](https://registry.khronos.org/VulkanSC/specs/1.0-extensions/man/html/SampleMask.html)
 - [gl_SampleMask](https://registry.khronos.org/OpenGL-Refpages/gl4/html/gl_SampleMask.xhtml)（HLSL **`SV_Coverage`**）
 - [Direct3D 11.3 Functional Specification -- 16.5 Pull Model Attribute Evaluation](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#16.5%20Pull%20Model%20Attribute%20Evaluation)
 - [EvaluateAttributeSnapped function](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/evaluateattributesnapped)
