@@ -412,6 +412,7 @@ scene.add(cube)
 - [如果想在GPU里软件方式计算射线和场景加速求交，SDF和BVH哪个好，各有什么优缺点？](https://www.zhihu.com/question/476683981)
 - [更快更清晰！NVIDIA首次实现SDF实时渲染，速度提升3个数量级](https://www.toutiao.com/i6924108185934660110/)
 - [Thinking Parallel, Part II: Tree Traversal on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-ii-tree-traversal-gpu/)
+- [Faithful Contouring：无需水密化、无需 SDF 场，1024³ 体素化 1 秒内搞定 | Tech Blog](https://mp.weixin.qq.com/s?__biz=MzkyMjY1MzIwMA==&mid=2247484492&idx=1&sn=7146a9e5b649ec853432e8e2a2198567)
 - [A Generalized Ray Formulation For Wave-Optics Rendering](https://ssteinberg.xyz/2023/03/27/rtplt/)
 - [Falcor和Kajiya的render graph对比](https://zhuanlan.zhihu.com/p/697075883)
 - [Unity3D--渲染管线](https://docs.unity3d.com/cn/2020.2/Manual/render-pipelines.html)（其中介绍了 URP 和 HDRP）
