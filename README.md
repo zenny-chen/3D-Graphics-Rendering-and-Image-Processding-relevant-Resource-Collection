@@ -534,6 +534,7 @@ scene.add(cube)
 - [MoonRay（MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer）](https://github.com/dreamworksanimation/openmoonray)
 - [SIGGRAPH 2016: Talks](https://history.siggraph.org/learning-overview/siggraph-2016-talks/)
 - [SIGGRAPH 2024: Advances In Real-Time Rendering In Games](https://advances.realtimerendering.com/s2024/index.html)
+- [ZOZO's Contact Solver](https://github.com/st-tech/ppf-contact-solver)
 
 <br />
 
