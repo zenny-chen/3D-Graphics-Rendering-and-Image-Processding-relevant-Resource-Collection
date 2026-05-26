@@ -416,6 +416,7 @@ scene.add(cube)
 - [A Generalized Ray Formulation For Wave-Optics Rendering](https://ssteinberg.xyz/2023/03/27/rtplt/)
 - [Falcor和Kajiya的render graph对比](https://zhuanlan.zhihu.com/p/697075883)
 - [Unity3D--渲染管线](https://docs.unity3d.com/cn/2020.2/Manual/render-pipelines.html)（其中介绍了 URP 和 HDRP）
+- [UE5 vs Unity 6 渲染架构全面对比：为什么这两个引擎走上了截然不同的技术路线](https://mp.weixin.qq.com/s?__biz=Mzg3ODc1NDg5Mw==&mid=2247485006&idx=1&sn=d27190a5416aac1b3f4ef72d67b28dc7)
 - [UE4 Real-time Hair Advances](https://www.fxguide.com/fxfeatured/ue4-real-time-hair-advances/)
 - [UE5 Lumen原理介绍](https://zhuanlan.zhihu.com/p/380720641)
 - [UE5渲染管线--Lumen全局光照](https://zhuanlan.zhihu.com/p/621956070)
