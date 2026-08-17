@@ -201,6 +201,16 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [12 Domain Shader Stage](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#12%20Domain%20Shader%20Stage)
 - [Vulkan Tessellation](https://docs.vulkan.org/spec/latest/chapters/tessellation.html)
 - [OpenGL Tessellation](https://wikis.khronos.org/opengl/Tessellation)
+- 基于四边形（Quad）patch 的 tessellation control（Hull）Shader 中的细分规则描述：（OpenGL/Vulkan 顶点构建顺序：左下、右下、右上、左上。Outer Level 顺序：左边、下边、右边、上边。）
+
+![tess_quad_patch](images/tess_quad_patch.png)
+
+- 基于三角形（Triangle）patch 的 tessellation control（Hull）Shader 中的细分规则描述：（OpenGL/Vulkan 顶点构建顺序：左下、右下、中上。Outer Level 顺序：左边、下边、右边。**OL** 表示 Outer Level；**IL** 表示 Inner Level）
+
+> 三角形边缘上控制点的生成与四边形的类似，而内部控制点生成规则就要复杂不少了。对于insideTessellationFactor值，如果它小于3，那么在三角形内就只有一个控制点，坐落于三角形的重心（所谓三角形重心，即三角形的三个顶点到对边上的中线所交汇的点）处。如果是3，那么在三角形内部则正好有3个控制点构成一个小三角形。如果是4，那么在小三角形中再增加一个控制点，坐落于小三角形的重心处，并且小三角形的每个边缘的中点处增加一个控制点。如果是5，内部小三角形的每条边缘则含有两个控制点，均分边缘；并且在小三角形内部再次构成一个小三角形。如果是6，小三角形的边缘含有3个控制点均分边缘；小三角形内部的小三角形的每个边缘上增加1个控制点，并且在其内部再增加一个控制点，以此类推……
+
+![tess_triangle_patch](images/tess_triangle_patch.png)
+
 - [Direct3D 11 Geometry Shader Stage](https://learn.microsoft.com/en-us/windows/win32/direct3d11/geometry-shader-stage)
 - [13 Geometry Shader Stage](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#13%20Geometry%20Shader%20Stage)
 - [Vulkan Geometry Shading](https://docs.vulkan.org/spec/latest/chapters/geometry.html)
