@@ -686,7 +686,7 @@ OpenGL ES Graphics Pipeline:
 
 ![OpenGL-ES_graphics_pipeline.png](images/OpenGL-ES_graphics_pipeline.png)
 
-我们可以看到，OpenGL与OpenGL ES基本是一样的。此外，如果想了解OpenGL图形渲染流水线更为细节的情况，可参考此文：https://www.khronos.org/opengl/wiki/Rendering_Pipeline_Overview
+我们可以看到，OpenGL 与 OpenGL ES 基本是一样的。此外，如果想了解 OpenGL 图形渲染流水线更为细节的情况，可参考此文：https://www.khronos.org/opengl/wiki/Rendering_Pipeline_Overview
 
 Metal API Graphics Pipeline:
 
@@ -699,6 +699,10 @@ Direct3D 11 Graphics Pipeline:
 Direct3D 12 Graphics Pipeline:
 
 ![direct3d12_graphics_pipeline](images/direct3d12_graphics_pipeline.png)
+
+Vulkan Complete Graphics Pipeline:
+
+![vulkan_pipeline_block_diagram](images/vulkan_pipeline_block_diagram.png)
 
 Compute Pipeline:
 
