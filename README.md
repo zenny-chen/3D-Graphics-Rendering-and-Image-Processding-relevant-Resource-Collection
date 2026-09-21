@@ -12,6 +12,7 @@
 - [老顾谈几何（腾讯网）](https://news.qq.com/omn/author/8QMd3Hpd6IEbvjrd)
 - [Morgan McGuire](https://research.nvidia.com/person/morgan-mcguire?tdsourcetag=s_pcqq_aiomsg)
 - [Matt Oztalay](https://linktr.ee/epicmattoztalay)
+- [Mastering Graphics Programming with Vulkan](https://github.com/PacktPublishing/Mastering-Graphics-Programming-with-Vulkan)
 - [What exactly is a softlock?](https://gaming.stackexchange.com/questions/357095/what-exactly-is-a-softlock)
 - [https://learnopengl.com/](https://learnopengl.com/)
 - [A Trip through the Graphics Pipeline](https://alaingalvan.gitbook.io/a-trip-through-the-graphics-pipeline)
