@@ -46,7 +46,7 @@
 
 - OpenGL光照模型：《OpenGL编程指南 第7版》P125——“第5章 光照”
   - 环境光（Ambient Light）：是那些在环境中进行了充分的散射，无法分辨其方向的光，它似乎是来自于所有的方向。房间里的逆光包含了非常多的环境光成分，由于这些光在到达眼睛前已经经过了许多表面的反弹。户外的探照灯所包含的环境光成分非常少，绝大多数光线都朝同一个方向前进，并且由于是在室外，探照灯所发出的光很少会通过其他物体的反弹进入眼睛。当环境光撞击表面时，它会向所有方向均匀发散。
-  - 漫射光（Diffuse Light）：来自某个方向。因此，如果它从正面照射表面，它看起来显得更漂亮一些。反之，如果它斜着掠过表面，它看起来就显得暗一些。但是，当它撞击表面时，它会均匀地向所有的方向发散。因此，不管眼睛在哪个位置，漫射光看上去总是一样亮。来自某个特定位置或方向的任何光很可能具有漫射成分。
+  - 漫射光（Diffuse Light）：即漫反射光，来自某个方向。因此，如果它从正面照射表面，它看起来显得更漂亮一些。反之，如果它斜着掠过表面，它看起来就显得暗一些。但是，当它撞击表面时，它会均匀地向所有的方向发散。因此，不管眼睛在哪个位置，漫射光看上去总是一样亮。来自某个特定位置或方向的任何光很可能具有漫射成分。
   - 镜面光（Specular Light）：来自一个特定的方向，并且倾向于从表面向某个特定方向反射。当一束经过充分校准的激光从一面高质量的镜子上反弹回来时，它所产生的几乎是百分之百的镜面反射光。具有光泽的金属材料或塑料具有非常高的镜面成分，而粉笔和地毯则几乎不存在镜面成分。可以把镜面理解成有光泽。
   - 发射颜色（Emissive Color）：除了环境、散射和镜面颜色之外，材料还可能具有一种发射颜色，它模拟那些源自某个物体的光。在 OpenGL 光照模型中，表面的发射颜色可以增加物体的强度，但它不受任何光源的影响。另外，在整体场景（scene）中，发射颜色并没有作为一种额外的光照。
 - [OpenGL调试技巧汇总](https://blog.csdn.net/zjz520yy/article/details/83034140)
@@ -484,6 +484,7 @@ scene.add(cube)
 - [BRDF Importance Sampling for Polygonal Lights](https://momentsingraphics.de/Siggraph2021.html)
 - [【复习】多重重要性采样（Multiple Importance Sampling）](https://zhuanlan.zhihu.com/p/1987109549497418031)
 - [动态漫反射全局光照（Dynamic Diffuse Global Illumination）](https://zhuanlan.zhihu.com/p/404520592)
+- [让大量动态光源跑进手机：HypeHype 的分块随机光照](https://mp.weixin.qq.com/s?__biz=MzA4NTkzNTI1NQ==&mid=2650236845&idx=1&sn=ed697acf08dbc09c6ca479a44866328f)
 - [Nested Dielectrics](https://blog.yiningkarlli.com/2019/05/nested-dielectrics.html)
 - [这是我们要的未来 英伟达RTX光线追踪技术解析](https://www.toutiao.com/i6768787614779572743/)
 - [NVIDIA Vulkan Ray Tracing Tutorial](https://developer.nvidia.com/rtx/raytracing/vkray)
