@@ -212,6 +212,7 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 
 ![tess_triangle_patch](images/tess_triangle_patch.png)
 
+- [【SIGGRAPH 2026】一套基于计算着色器的曲面细分管线](https://mp.weixin.qq.com/s?__biz=MzA4NTkzNTI1NQ==&mid=2650236815&idx=1&sn=a7ef37e0977b46075d732e45ae79b0f7)
 - [Direct3D 11 Geometry Shader Stage](https://learn.microsoft.com/en-us/windows/win32/direct3d11/geometry-shader-stage)
 - [13 Geometry Shader Stage](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#13%20Geometry%20Shader%20Stage)
 - [Vulkan Geometry Shading](https://docs.vulkan.org/spec/latest/chapters/geometry.html)
