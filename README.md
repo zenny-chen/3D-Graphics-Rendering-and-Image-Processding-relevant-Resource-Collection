@@ -19,6 +19,7 @@
 - [Advanced Graphics Programming Techniques](https://www.opengl.org/archives/resources/code/samples/sig99/advanced99/notes/notes.html)
 - [GPU渲染管线之旅（GPU渲染管线中的硬件实现）](https://www.zhihu.com/column/c_1265245746099941376)
 - [实时渲染管线:（三）逻辑管线](https://zhuanlan.zhihu.com/p/440593877)
+- [games101-现代计算机图形学（01）](https://mp.weixin.qq.com/s?__biz=MzU1MjMyODgwMg==&mid=2247485649&idx=1&sn=a9d1466a4a66a50913db4b190949f40b)
 - [Life of a triangle - NVIDIA's logical pipeline](https://developer.nvidia.com/content/life-triangle-nvidias-logical-pipeline)
 - [OpenGL -- 屏幕成像和渲染原理解析](https://www.toutiao.com/article/7153963074285322791/)
 - [图形学:名词解释](https://blog.csdn.net/hellotruth/article/details/40889701)
