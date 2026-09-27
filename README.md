@@ -172,6 +172,8 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [Vulkan坐标系](https://zhuanlan.zhihu.com/p/97496535)（NDC——Normalized Device Coordinates，标准化设备坐标）
 - [Vulkan 右手坐标系见解](https://zhuanlan.zhihu.com/p/365830760)
 - [Coordinate Systems \(Direct3D 9\)](https://learn.microsoft.com/en-us/windows/win32/direct3d9/coordinate-systems)
+- [Bindless Texture](https://wikis.khronos.org/opengl/Bindless_Texture)
+- [OpenGL Bindless Texture](https://www.cnblogs.com/gearslogy/p/13072817.html)
 - [游戏引擎随笔 0x13：现代图形 API 的 Bindless](https://zhuanlan.zhihu.com/p/136449475)
 - [Managing bindless descriptors in Vulkan](https://dev.to/gasim/implementing-bindless-design-in-vulkan-34no)
 - [Vulkan Dynamic State](https://zhuanlan.zhihu.com/p/338237434)
