@@ -647,7 +647,7 @@ Centroid behaves exactly as follows:
 
 ## OpenGL中对各种四元向量数据类型的分量标识
 - 顶点坐标：x, y, z, w
-- 纹理坐标：s, t, r, q
+- 纹理坐标：s, t, r, q  (Direct3D 中则是：u, v, w, q)
 - 颜色通道：r, g, b, a
 
 <br />
