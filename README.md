@@ -286,6 +286,7 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [Precise Qualifier in GLSL and NVIDIA GeForce Cards](https://www.geeks3d.com/20120106/precise-qualifier-in-glsl-and-nvidia-geforce-cards/)
 - [How exactly is GLSL's "coherent" memory qualifier interpreted by GPU drivers for multi-pass rendering?](https://stackoverflow.com/questions/9731204/how-exactly-is-glsls-coherent-memory-qualifier-interpreted-by-gpu-drivers-for)
 - [GLSL: about coherent qualifier](https://stackoverflow.com/questions/56340333/glsl-about-coherent-qualifier)（内含 **`atomicAdd`** 的使用）
+- [Primitive Restart](https://wikis.khronos.org/opengl/Vertex_Rendering#Primitive_Restart)
 - [Primitive Restart and OpenGL Interoperability](https://www.codeproject.com/articles/201263/part-6-primitive-restart-and-opengl-interoperabili)
 - [OpenGL ES 3.0: 图元重启\(Primitive restart\)](https://www.cnblogs.com/psklf/p/5750783.html)
 - [OpenGL 图元重启](https://blog.csdn.net/yulinxx/article/details/77896541)
