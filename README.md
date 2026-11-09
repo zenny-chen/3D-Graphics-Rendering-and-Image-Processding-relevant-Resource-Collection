@@ -370,6 +370,7 @@ OpenGL/Vulkan 中的颜色格式与 Direct3D 类似，可参考：[Image Format]
 - [软阴影的实现尝试](https://zhuanlan.zhihu.com/p/158646632)
 - [Unity——Screenspace Shadow Map与传统Shadow Map](https://blog.csdn.net/m0_62316271/article/details/128519219)
 - [（官方转载）UE5 虚拟阴影贴图 （VirtualShadowMaps）的优势和局限性](https://zhuanlan.zhihu.com/p/407945117)
+- [虚拟阴影贴图：按需分配高精度阴影](https://mp.weixin.qq.com/s?__biz=MzA4NTkzNTI1NQ==&mid=2650237455&idx=1&sn=8c5f59a83d36d1045b350df82d4381cf)
 - [虚幻5渲染编程(风格化渲染篇)\[第九卷: Virtual Toon ShadowMap and self shadow\]](https://mp.weixin.qq.com/s?__biz=MzUxMDM3MTYwNQ==&mid=2247530795&idx=2&sn=84264a3cde229130472ad353fbad5f77)
 - [游戏引擎随笔 0x22：UE5 Virtual Shadow Maps 源码解析之 Nanite 篇](https://zhuanlan.zhihu.com/p/379628348)
 - [阴影贴图Variance Shadow Map](https://zhuanlan.zhihu.com/p/414746542)
