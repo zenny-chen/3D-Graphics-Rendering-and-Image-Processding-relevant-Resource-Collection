@@ -15,6 +15,7 @@
 - [Mastering Graphics Programming with Vulkan](https://github.com/PacktPublishing/Mastering-Graphics-Programming-with-Vulkan)
 - [What exactly is a softlock?](https://gaming.stackexchange.com/questions/357095/what-exactly-is-a-softlock)
 - [https://learnopengl.com/](https://learnopengl.com/)
+- [Three.js 终于有「真光追」了：Meshy 开源 ThreeRT，60fps 不用烘焙](https://mp.weixin.qq.com/s?__biz=MzIzOTkxMTI2MA==&mid=2247496222&idx=1&sn=1293eddac37f9702ed89fe8b61c675c3)
 - [A Trip through the Graphics Pipeline](https://alaingalvan.gitbook.io/a-trip-through-the-graphics-pipeline)
 - [Advanced Graphics Programming Techniques](https://www.opengl.org/archives/resources/code/samples/sig99/advanced99/notes/notes.html)
 - [GPU渲染管线之旅（GPU渲染管线中的硬件实现）](https://www.zhihu.com/column/c_1265245746099941376)
